@@ -1,6 +1,6 @@
 {
-.appVersion = "1269";
-copyright = "Copyright © 2015 by Micah Stupak-Hahn. All rights reserved.";
+.appVersion = "1230";
+copyright = "Copyright 2019 The Russolo Project Authors (https://github.com/laerm0/Russolo)";
 customParameters = (
 {
 name = vendorID;
@@ -31,6 +31,19 @@ Name = Stroke;
 Tag = stro;
 }
 );
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2019-10-14 14:44:41 +0000";
@@ -48,7 +61,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature ss02;\012";
+code = "feature locl;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012";
 name = aalt;
 },
 {
@@ -51802,6 +51815,12 @@ width = 600;
 );
 instances = (
 {
+customParameters = (
+{
+name = weightClass;
+value = 250;
+}
+);
 interpolationWeight = 200;
 instanceInterpolations = {
 "1A84AFAC-8532-492C-A52A-D2ACD869B7F8" = 1;
@@ -51814,9 +51833,7 @@ interpolationWeight = 500;
 instanceInterpolations = {
 "EA94BB3F-1054-4F03-AAB6-69C3B81B3CC3" = 1;
 };
-isBold = 1;
-linkStyle = Light;
-name = Demi;
+name = Medium;
 weightClass = Medium;
 },
 {
