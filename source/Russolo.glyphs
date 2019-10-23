@@ -1,14 +1,6 @@
 {
-<<<<<<< HEAD
 .appVersion = "1269";
-DisplayStrings = (
-"/OE"
-);
-copyright = "Copyright © 2015 by Micah Stupak-Hahn. All rights reserved.";
-=======
-.appVersion = "1230";
 copyright = "Copyright 2019 The Russolo Project Authors (https://github.com/laerm0/Russolo)";
->>>>>>> 22c2e5421a750ac04c91efa804107a739d379ab5
 customParameters = (
 {
 name = vendorID;
