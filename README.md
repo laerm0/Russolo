@@ -12,3 +12,6 @@ And so, Italian tradition meets the Futurist ideals of the 1910s-20s.
 ![sample](images/sample.png)
 
 Development will include a character set matching Google Latin Plus and two axes: weight and stroke (which will add subtler contrast to stems as well as flared terminals on curved strokes).
+
+This project is developed with the aid of BrowserStack.  
+![logo](images/Browserstack-logo@2x.png)
