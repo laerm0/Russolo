@@ -14,4 +14,4 @@ And so, Italian tradition meets the Futurist ideals of the 1910s-20s.
 Development will include a character set matching Google Latin Plus, Cyrillic, and Greek and two axes: weight and optical size.
 
 This project is developed with the aid of BrowserStack.  
-![logo]<images/Browserstack-logo@2x.png height="100">
+<img src="images/Browserstack-logo@2x.png" height="100">
