@@ -1,7 +1,7 @@
 {
 .appVersion = "1278";
 DisplayStrings = (
-H
+A
 );
 classes = (
 {
@@ -965,7 +965,7 @@ unicode = 0020;
 {
 color = 1;
 glyphname = A;
-lastChange = "2019-12-17 06:55:15 +0000";
+lastChange = "2019-12-17 06:58:34 +0000";
 layers = (
 {
 anchors = (
@@ -1362,45 +1362,6 @@ name = top;
 position = "{722, 1430}";
 }
 );
-background = {
-anchors = (
-{
-name = bottom;
-position = "{722, 0}";
-},
-{
-name = ogonek;
-position = "{1300, 10}";
-},
-{
-name = top;
-position = "{722, 1430}";
-}
-);
-paths = (
-{
-closed = 1;
-nodes = (
-"146 0 LINE",
-"648 942 LINE",
-"560 902 LINE",
-"1058 0 LINE",
-"1469 0 LINE",
-"720 1479 LINE",
-"-23 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"1041 323 LINE",
-"961 519 LINE",
-"288 519 LINE",
-"199 323 LINE"
-);
-}
-);
-};
 layerId = "66066CCB-AAC9-4485-8967-3F6B885ABFA4";
 paths = (
 {
@@ -161216,7 +161177,7 @@ unicode = 03CB;
 {
 color = 1;
 glyphname = zero;
-lastChange = "2019-12-17 06:53:50 +0000";
+lastChange = "2019-12-17 06:57:28 +0000";
 layers = (
 {
 background = {
