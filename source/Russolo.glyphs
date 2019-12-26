@@ -1,8 +1,5 @@
 {
 .appVersion = "1270";
-DisplayStrings = (
-z
-);
 classes = (
 {
 automatic = 1;
@@ -9991,7 +9988,7 @@ unicode = 0110;
 },
 {
 glyphname = Dzcaron;
-lastChange = "2019-12-26 18:46:56 +0000";
+lastChange = "2019-12-26 18:47:28 +0000";
 layers = (
 {
 components = (
@@ -10069,7 +10066,7 @@ transform = "{1, 0, 0, 1, 1465, 0}";
 }
 );
 layerId = "5EAC5215-9D4A-4BA0-8B26-A551FA1A966A";
-width = 2373;
+width = 2347;
 },
 {
 background = {
@@ -10117,7 +10114,7 @@ transform = "{1, 0, 0, 1, 1601, 0}";
 }
 );
 layerId = "66066CCB-AAC9-4485-8967-3F6B885ABFA4";
-width = 2850;
+width = 2856;
 }
 );
 unicode = 01C5;
@@ -58868,7 +58865,7 @@ unicode = 0111;
 },
 {
 glyphname = dzcaron;
-lastChange = "2019-12-26 18:46:56 +0000";
+lastChange = "2019-12-26 18:47:28 +0000";
 layers = (
 {
 components = (
@@ -58946,7 +58943,7 @@ transform = "{1, 0, 0, 1, 1193, 0}";
 }
 );
 layerId = "5EAC5215-9D4A-4BA0-8B26-A551FA1A966A";
-width = 2101;
+width = 2075;
 },
 {
 background = {
@@ -58994,7 +58991,7 @@ transform = "{1, 0, 0, 1, 1447, 0}";
 }
 );
 layerId = "66066CCB-AAC9-4485-8967-3F6B885ABFA4";
-width = 2696;
+width = 2702;
 }
 );
 unicode = 01C6;
