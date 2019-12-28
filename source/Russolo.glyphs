@@ -107,10 +107,6 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 name = ordn;
 },
 {
-code = "lookupflag IgnoreMarks;\012sub f i by fi;\012sub f l by fl;\012";
-name = liga;
-},
-{
 automatic = 1;
 code = "sub zero.osf by zero.lf;\012sub one.osf by one.lf;\012sub two.osf by two.lf;\012sub three.osf by three.lf;\012sub four.osf by four.lf;\012sub five.osf by five.lf;\012sub six.osf by six.lf;\012sub seven.osf by seven.lf;\012sub eight.osf by eight.lf;\012sub nine.osf by nine.lf;\012sub zero by zero.tf;\012sub one by one.tf;\012sub two by two.tf;\012sub three by three.tf;\012sub four by four.tf;\012sub five by five.tf;\012sub six by six.tf;\012sub seven by seven.tf;\012sub eight by eight.tf;\012sub nine by nine.tf;\012";
 name = lnum;
@@ -134,6 +130,11 @@ name = onum;
 automatic = 1;
 code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;\012sub currency_vert_stroke by currency_vert_stroke.case;\012sub dieresiscomb by dieresiscomb.case;\012sub dotaccentcomb by dotaccentcomb.case;\012sub gravecomb by gravecomb.case;\012sub acutecomb by acutecomb.case;\012sub hungarumlautcomb by hungarumlautcomb.case;\012sub caroncomb.alt by caroncomb.alt.case;\012sub circumflexcomb by circumflexcomb.case;\012sub caroncomb by caroncomb.case;\012sub brevecomb by brevecomb.case;\012sub ringcomb by ringcomb.case;\012sub tildecomb by tildecomb.case;\012sub macroncomb by macroncomb.case;\012sub hookabovecomb by hookabovecomb.case;\012sub dblgravecomb by dblgravecomb.case;\012sub breveinvertedcomb by breveinvertedcomb.case;\012sub commaturnedabovecomb by commaturnedabovecomb.case;\012sub horncomb by horncomb.case;\012sub dotbelowcomb by dotbelowcomb.case;\012sub dieresisbelowcomb by dieresisbelowcomb.case;\012sub commaaccentcomb by commaaccentcomb.case;\012sub cedillacomb by cedillacomb.case;\012sub ogonekcomb by ogonekcomb.case;\012sub brevebelowcomb by brevebelowcomb.case;\012sub macronbelowcomb by macronbelowcomb.case;\012sub strokelongcomb by strokelongcomb.case;\012sub slashshortcomb by slashshortcomb.case;\012sub slashlongcomb by slashlongcomb.case;\012sub circumflexcomb_acutecomb by circumflexcomb_acutecomb.case;\012sub circumflexcomb_gravecomb by circumflexcomb_gravecomb.case;\012sub circumflexcomb_tildecomb by circumflexcomb_tildecomb.case;\012sub zero by zero.lf;\012sub one by one.lf;\012sub two by two.lf;\012sub three by three.lf;\012sub four by four.lf;\012sub five by five.lf;\012sub six by six.lf;\012sub seven by seven.lf;\012sub eight by eight.lf;\012sub nine by nine.lf;\012sub zero.osf by zero.lf;\012sub one.osf by one.lf;\012sub two.osf by two.lf;\012sub three.osf by three.lf;\012sub four.osf by four.lf;\012sub five.osf by five.lf;\012sub six.osf by six.lf;\012sub seven.osf by seven.lf;\012sub eight.osf by eight.lf;\012sub nine.osf by nine.lf;\012sub zero.tf by zero.lf;\012sub one.tf by one.lf;\012sub two.tf by two.lf;\012sub three.tf by three.lf;\012sub four.tf by four.lf;\012sub five.tf by five.lf;\012sub six.tf by six.lf;\012sub seven.tf by seven.lf;\012sub eight.tf by eight.lf;\012sub nine.tf by nine.lf;\012";
 name = case;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;\012sub f f i by f_f_i;\012sub f f l by f_f_l;\012sub f f by f_f;\012sub f i by fi;\012sub f l by fl;\012";
+name = liga;
 },
 {
 automatic = 1;
@@ -188440,96 +188441,96 @@ kerning = {
 };
 };
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = {
-three.numr = {
-fraction = 110;
-};
 "@MMK_L_one.dnom" = {
-space = 0;
+"@MMK_R_space" = 0;
 };
 "@MMK_L_two.dnom" = {
-space = 0;
-};
-space = {
-nine.numr = 0;
-};
-seven.numr = {
-fraction = -60;
+"@MMK_R_space" = 0;
 };
 eight.numr = {
-fraction = 130;
-};
-one.numr = {
-fraction = 220;
-};
-two.numr = {
-fraction = 210;
-};
-four.numr = {
-fraction = 160;
-};
-nine.numr = {
-fraction = 10;
-};
-zero.numr = {
-fraction = 30;
-};
-six.numr = {
-fraction = 130;
-};
-fraction = {
-"@MMK_R_one.dnom" = 120;
-"@MMK_R_three.dnom" = 160;
-"@MMK_R_four.dnom" = -30;
-"@MMK_R_two.dnom" = 100;
-"@MMK_R_zero.dnom" = 90;
-"@MMK_R_five.dnom" = 130;
-"@MMK_R_eight.dnom" = 170;
-"@MMK_R_nine.dnom" = 160;
-"@MMK_R_six.dnom" = 40;
-"@MMK_R_seven.dnom" = 320;
+"@MMK_R_fraction" = 130;
 };
 five.numr = {
-fraction = 140;
+"@MMK_R_fraction" = 140;
+};
+four.numr = {
+"@MMK_R_fraction" = 160;
+};
+nine.numr = {
+"@MMK_R_fraction" = 10;
+};
+one.numr = {
+"@MMK_R_fraction" = 220;
+};
+seven.numr = {
+"@MMK_R_fraction" = -60;
+};
+six.numr = {
+"@MMK_R_fraction" = 130;
+};
+three.numr = {
+"@MMK_R_fraction" = 110;
+};
+two.numr = {
+"@MMK_R_fraction" = 210;
+};
+zero.numr = {
+"@MMK_R_fraction" = 30;
+};
+"@MMK_L_fraction" = {
+"@MMK_R_eight.dnom" = 170;
+"@MMK_R_five.dnom" = 130;
+"@MMK_R_four.dnom" = -30;
+"@MMK_R_nine.dnom" = 160;
+"@MMK_R_one.dnom" = 120;
+"@MMK_R_seven.dnom" = 320;
+"@MMK_R_six.dnom" = 40;
+"@MMK_R_three.dnom" = 160;
+"@MMK_R_two.dnom" = 100;
+"@MMK_R_zero.dnom" = 90;
+};
+"@MMK_L_space" = {
+nine.numr = 0;
 };
 };
 "338DAB22-2F62-42B0-AF6A-AC80FC784DAE" = {
-four.numr = {
-fraction = 400;
-};
-six.numr = {
-fraction = 440;
-};
-nine.numr = {
-fraction = 370;
-};
 eight.numr = {
-fraction = 420;
-};
-three.numr = {
-fraction = 440;
+"@MMK_R_fraction" = 420;
 };
 five.numr = {
-fraction = 420;
+"@MMK_R_fraction" = 420;
+};
+four.numr = {
+"@MMK_R_fraction" = 400;
+};
+nine.numr = {
+"@MMK_R_fraction" = 370;
+};
+one.numr = {
+"@MMK_R_fraction" = 470;
 };
 seven.numr = {
-fraction = 180;
+"@MMK_R_fraction" = 180;
+};
+six.numr = {
+"@MMK_R_fraction" = 440;
+};
+three.numr = {
+"@MMK_R_fraction" = 440;
 };
 two.numr = {
-fraction = 440;
+"@MMK_R_fraction" = 440;
 };
-fraction = {
+"@MMK_L_fraction" = {
+"@MMK_R_eight.dnom" = 80;
+"@MMK_R_five.dnom" = 130;
+"@MMK_R_nine.dnom" = 120;
 "@MMK_R_one.dnom" = 70;
+"@MMK_R_seven.dnom" = 160;
+"@MMK_R_six.dnom" = 50;
 "@MMK_R_three.dnom" = 110;
 "@MMK_R_two.dnom" = 120;
 "@MMK_R_zero.dnom" = 40;
-"@MMK_R_five.dnom" = 130;
-"@MMK_R_eight.dnom" = 80;
-"@MMK_R_nine.dnom" = 120;
-"@MMK_R_six.dnom" = 50;
-"@MMK_R_seven.dnom" = 160;
-};
-one.numr = {
-fraction = 470;
 };
 };
 };
