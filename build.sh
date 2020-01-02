@@ -1,4 +1,4 @@
-OUTPUT_DIR=build_output
+OUTPUT_DIR=fonts/static
 SOURCE_DIR=source
 
 rm $OUTPUT_DIR -rf

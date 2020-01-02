@@ -265782,6 +265782,12 @@ kerning = {
 "@MMK_L_Eng" = {
 "@MMK_R_jdotless" = 0;
 };
+"@MMK_L_T" = {
+"@MMK_R_H" = 132;
+};
+"@MMK_L_U" = {
+"@MMK_R_T" = 2;
+};
 "@MMK_L_f" = {
 "@MMK_R_T" = 30;
 "@MMK_R_V" = 0;
@@ -265820,12 +265826,6 @@ kerning = {
 };
 "@MMK_L_v" = {
 "@MMK_R_A" = -210;
-};
-"@MMK_L_U" = {
-"@MMK_R_T" = 2;
-};
-"@MMK_L_T" = {
-"@MMK_R_H" = 132;
 };
 };
 "16E03120-9D89-4B3A-B1E3-633A6E865927" = {
