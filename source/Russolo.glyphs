@@ -55,6 +55,10 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Variable Font Origin";
+value = "New Value";
 }
 );
 date = "2019-12-31 21:08:52 +0000";
@@ -183,6 +187,26 @@ Axis = "Optical size";
 Location = 30;
 }
 );
+},
+{
+name = typoAscender;
+value = 1514;
+},
+{
+name = typoDescender;
+value = -486;
+},
+{
+name = typoLineGap;
+value = 500;
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 descender = -526;
@@ -247,6 +271,26 @@ Axis = "Optical size";
 Location = "30";
 }
 );
+},
+{
+name = typoAscender;
+value = 1514;
+},
+{
+name = typoDescender;
+value = -486;
+},
+{
+name = typoLineGap;
+value = 500;
+},
+{
+name = winAscent;
+value = 2460;
+},
+{
+name = winDescent;
+value = 556;
 }
 );
 descender = -526;
@@ -309,6 +353,26 @@ Axis = "Optical size";
 Location = "30";
 }
 );
+},
+{
+name = typoAscender;
+value = 1524;
+},
+{
+name = typoDescender;
+value = -476;
+},
+{
+name = typoLineGap;
+value = 500;
+},
+{
+name = winAscent;
+value = 2649;
+},
+{
+name = winDescent;
+value = 556;
 }
 );
 descender = -526;
@@ -373,6 +437,26 @@ Axis = "Optical size";
 Location = 72;
 }
 );
+},
+{
+name = typoAscender;
+value = 1514;
+},
+{
+name = typoDescender;
+value = -486;
+},
+{
+name = typoLineGap;
+value = 500;
+},
+{
+name = winAscent;
+value = 2257;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 descender = -526;
@@ -436,6 +520,26 @@ Axis = "Optical size";
 Location = 72;
 }
 );
+},
+{
+name = typoAscender;
+value = 1514;
+},
+{
+name = typoDescender;
+value = -486;
+},
+{
+name = typoLineGap;
+value = 500;
+},
+{
+name = winAscent;
+value = 2316;
+},
+{
+name = winDescent;
+value = 574;
 }
 );
 descender = -563;
@@ -499,6 +603,26 @@ Axis = "Optical size";
 Location = 72;
 }
 );
+},
+{
+name = typoAscender;
+value = 1529;
+},
+{
+name = typoDescender;
+value = -471;
+},
+{
+name = typoLineGap;
+value = 500;
+},
+{
+name = winAscent;
+value = 2624;
+},
+{
+name = winDescent;
+value = 598;
 }
 );
 descender = -526;
@@ -562,6 +686,26 @@ Axis = "Optical size";
 Location = 10;
 }
 );
+},
+{
+name = typoAscender;
+value = 1514;
+},
+{
+name = typoDescender;
+value = -486;
+},
+{
+name = typoLineGap;
+value = 500;
+},
+{
+name = winAscent;
+value = 2403;
+},
+{
+name = winDescent;
+value = 558;
 }
 );
 descender = -526;
@@ -628,6 +772,26 @@ Axis = "Optical size";
 Location = 10;
 }
 );
+},
+{
+name = typoAscender;
+value = 1518;
+},
+{
+name = typoDescender;
+value = -482;
+},
+{
+name = typoLineGap;
+value = 500;
+},
+{
+name = winAscent;
+value = 2462;
+},
+{
+name = winDescent;
+value = 569;
 }
 );
 descender = -526;
@@ -685,6 +849,26 @@ Axis = "Optical size";
 Location = 10;
 }
 );
+},
+{
+name = typoAscender;
+value = 1524;
+},
+{
+name = typoDescender;
+value = -476;
+},
+{
+name = typoLineGap;
+value = 500;
+},
+{
+name = winAscent;
+value = 2573;
+},
+{
+name = winDescent;
+value = 596;
 }
 );
 descender = -526;
@@ -269368,6 +269552,14 @@ customParameters = (
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 200;
@@ -269375,7 +269567,7 @@ interpolationWidth = 10;
 instanceInterpolations = {
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 1;
 };
-name = "ExtraLight 10pt";
+name = "10pt ExtraLight";
 weightClass = ExtraLight;
 },
 {
@@ -269396,6 +269588,14 @@ Axis = "Optical size";
 Location = 10;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 295;
@@ -269404,7 +269604,7 @@ instanceInterpolations = {
 "50B3BD20-6B7E-4A37-88B3-070541B8FD4C" = 0.36822;
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 0.63178;
 };
-name = "Light 10pt";
+name = "10pt Light";
 weightClass = Light;
 },
 {
@@ -269421,6 +269621,14 @@ Axis = "Optical size";
 Location = 10;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 379;
@@ -269429,7 +269637,7 @@ instanceInterpolations = {
 "50B3BD20-6B7E-4A37-88B3-070541B8FD4C" = 0.6938;
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 0.3062;
 };
-name = "Regular 10pt";
+name = "10pt Regular";
 },
 {
 customParameters = (
@@ -269445,6 +269653,14 @@ Axis = "Optical size";
 Location = 10;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 458;
@@ -269454,7 +269670,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "ExtraLight Text";
-name = "Medium 10pt";
+name = "10pt Medium";
 weightClass = Medium;
 },
 {
@@ -269471,6 +269687,14 @@ Axis = "Optical size";
 Location = 10;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 542;
@@ -269481,7 +269705,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "Light Text";
-name = "SemiBold 10pt";
+name = "10pt SemiBold";
 weightClass = SemiBold;
 },
 {
@@ -269498,6 +269722,14 @@ Axis = "Optical size";
 Location = 10;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 648;
@@ -269508,7 +269740,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "Regular Text";
-name = "Bold 10pt";
+name = "10pt Bold";
 weightClass = Bold;
 },
 {
@@ -269529,6 +269761,14 @@ Axis = "Optical size";
 Location = 10;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 800;
@@ -269537,7 +269777,7 @@ instanceInterpolations = {
 "338DAB22-2F62-42B0-AF6A-AC80FC784DAE" = "{1, 0.88304}";
 "50B3BD20-6B7E-4A37-88B3-070541B8FD4C" = "{0, 0.11696}";
 };
-name = "ExtraBold 10pt";
+name = "10pt ExtraBold";
 weightClass = UltraBold;
 },
 {
@@ -269545,6 +269785,14 @@ customParameters = (
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 200;
@@ -269553,7 +269801,7 @@ instanceInterpolations = {
 "1A84AFAC-8532-492C-A52A-D2ACD869B7F8" = 0.7;
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 0.3;
 };
-name = "ExtraLight 24pt";
+name = "24pt ExtraLight";
 weightClass = ExtraLight;
 },
 {
@@ -269574,6 +269822,14 @@ Axis = "Optical size";
 Location = 24;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 295;
@@ -269584,7 +269840,7 @@ instanceInterpolations = {
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 0.13516;
 "EA94BB3F-1054-4F03-AAB6-69C3B81B3CC3" = 0.17491;
 };
-name = "Light 24pt";
+name = "24pt Light";
 weightClass = Light;
 },
 {
@@ -269605,6 +269861,14 @@ Location = 24;
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 379;
@@ -269615,7 +269879,7 @@ instanceInterpolations = {
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 0.16075;
 "EA94BB3F-1054-4F03-AAB6-69C3B81B3CC3" = 0.47692;
 };
-name = "Regular 24pt";
+name = "24pt Regular";
 },
 {
 customParameters = (
@@ -269631,6 +269895,14 @@ Axis = "Optical size";
 Location = 24;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 458;
@@ -269642,7 +269914,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = ExtraLight;
-name = "Medium 24pt";
+name = "24pt Medium";
 weightClass = Medium;
 },
 {
@@ -269659,6 +269931,14 @@ Axis = "Optical size";
 Location = 24;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 542;
@@ -269671,7 +269951,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = Light;
-name = "SemiBold 24pt";
+name = "24pt SemiBold";
 weightClass = SemiBold;
 },
 {
@@ -269688,6 +269968,14 @@ Axis = "Optical size";
 Location = 24;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 648;
@@ -269700,7 +269988,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = Regular;
-name = "Bold 24pt";
+name = "24pt Bold";
 weightClass = Bold;
 },
 {
@@ -269717,6 +270005,14 @@ Axis = "Optical size";
 Location = 24;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 800;
@@ -269725,7 +270021,7 @@ instanceInterpolations = {
 "16E03120-9D89-4B3A-B1E3-633A6E865927" = 0.7;
 "338DAB22-2F62-42B0-AF6A-AC80FC784DAE" = 0.3;
 };
-name = "ExtraBold 24pt";
+name = "24pt ExtraBold";
 weightClass = ExtraBold;
 },
 {
@@ -269733,6 +270029,14 @@ customParameters = (
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 200;
@@ -269740,7 +270044,7 @@ interpolationWidth = 72;
 instanceInterpolations = {
 "09CD4194-2486-478D-AB32-B0AA8D4EDA22" = 1;
 };
-name = "ExtraLight 72pt";
+name = "24pt ExtraLight";
 weightClass = ExtraLight;
 },
 {
@@ -269761,6 +270065,14 @@ Axis = "Optical size";
 Location = 72;
 }
 );
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 295;
@@ -269769,7 +270081,7 @@ instanceInterpolations = {
 "09CD4194-2486-478D-AB32-B0AA8D4EDA22" = 0.68333;
 "B4536172-55B8-4884-A498-BDE07D5884DA" = 0.31667;
 };
-name = "Light 72pt";
+name = "24pt Light";
 weightClass = Light;
 },
 {
@@ -269790,6 +270102,14 @@ Location = 72;
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 379;
@@ -269798,7 +270118,7 @@ instanceInterpolations = {
 "09CD4194-2486-478D-AB32-B0AA8D4EDA22" = 0.40333;
 "B4536172-55B8-4884-A498-BDE07D5884DA" = 0.59667;
 };
-name = "Regular 72pt";
+name = "24pt Regular";
 },
 {
 customParameters = (
@@ -269818,6 +270138,14 @@ Location = 72;
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 458;
@@ -269828,7 +270156,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "ExtraLight Display";
-name = "Medium 72pt";
+name = "24pt Medium";
 weightClass = Medium;
 },
 {
@@ -269849,6 +270177,14 @@ Location = 24;
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 542;
@@ -269859,7 +270195,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "Light Display";
-name = "SemiBold 72pt";
+name = "24pt SemiBold";
 weightClass = SemiBold;
 },
 {
@@ -269880,6 +270216,14 @@ Location = 72;
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 648;
@@ -269890,7 +270234,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "Regular Display";
-name = "Bold 72pt";
+name = "24pt Bold";
 weightClass = Bold;
 },
 {
@@ -269911,6 +270255,26 @@ Location = 72;
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = winAscent;
+value = 2228;
+},
+{
+name = winDescent;
+value = 600;
+},
+{
+name = typoAscender;
+value = 1529;
+},
+{
+name = typoDescender;
+value = -471;
+},
+{
+name = typoLineGap;
+value = 500;
 }
 );
 interpolationWeight = 800;
@@ -269918,7 +270282,7 @@ interpolationWidth = 72;
 instanceInterpolations = {
 "5EAC5215-9D4A-4BA0-8B26-A551FA1A966A" = 1;
 };
-name = "ExtraBold 72pt";
+name = "24pt ExtraBold";
 weightClass = ExtraBold;
 }
 );
