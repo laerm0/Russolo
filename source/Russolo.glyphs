@@ -269375,7 +269375,7 @@ interpolationWidth = 10;
 instanceInterpolations = {
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 1;
 };
-name = "ExtraLight Text";
+name = "ExtraLight 10pt";
 weightClass = ExtraLight;
 },
 {
@@ -269383,6 +269383,19 @@ customParameters = (
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = "Optical size";
+Location = 10;
+}
+);
 }
 );
 interpolationWeight = 295;
@@ -269391,19 +269404,49 @@ instanceInterpolations = {
 "50B3BD20-6B7E-4A37-88B3-070541B8FD4C" = 0.36822;
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 0.63178;
 };
-name = "Light Text";
+name = "Light 10pt";
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = "Optical size";
+Location = 10;
+}
+);
+}
+);
 interpolationWeight = 379;
 interpolationWidth = 10;
 instanceInterpolations = {
 "50B3BD20-6B7E-4A37-88B3-070541B8FD4C" = 0.6938;
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 0.3062;
 };
-name = "Regular Text";
+name = "Regular 10pt";
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = "Optical size";
+Location = 10;
+}
+);
+}
+);
 interpolationWeight = 458;
 interpolationWidth = 10;
 instanceInterpolations = {
@@ -269411,10 +269454,25 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "ExtraLight Text";
-name = "Medium Text";
+name = "Medium 10pt";
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = "Optical size";
+Location = 10;
+}
+);
+}
+);
 interpolationWeight = 542;
 interpolationWidth = 10;
 instanceInterpolations = {
@@ -269423,10 +269481,25 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "Light Text";
-name = "SemiBold Text";
+name = "SemiBold 10pt";
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = "Optical size";
+Location = 10;
+}
+);
+}
+);
 interpolationWeight = 648;
 interpolationWidth = 10;
 instanceInterpolations = {
@@ -269435,7 +269508,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "Regular Text";
-name = "Bold Text";
+name = "Bold 10pt";
 weightClass = Bold;
 },
 {
@@ -269443,6 +269516,19 @@ customParameters = (
 {
 name = InterpolationWeightY;
 value = "760";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+},
+{
+Axis = "Optical size";
+Location = 10;
+}
+);
 }
 );
 interpolationWeight = 800;
@@ -269451,7 +269537,7 @@ instanceInterpolations = {
 "338DAB22-2F62-42B0-AF6A-AC80FC784DAE" = "{1, 0.88304}";
 "50B3BD20-6B7E-4A37-88B3-070541B8FD4C" = "{0, 0.11696}";
 };
-name = "ExtraBold Text";
+name = "ExtraBold 10pt";
 weightClass = UltraBold;
 },
 {
@@ -269467,7 +269553,7 @@ instanceInterpolations = {
 "1A84AFAC-8532-492C-A52A-D2ACD869B7F8" = 0.7;
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 0.3;
 };
-name = ExtraLight;
+name = "ExtraLight 24pt";
 weightClass = ExtraLight;
 },
 {
@@ -269475,6 +269561,19 @@ customParameters = (
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "300";
+},
+{
+Axis = "Optical size";
+Location = 24;
+}
+);
 }
 );
 interpolationWeight = 295;
@@ -269485,10 +269584,29 @@ instanceInterpolations = {
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 0.13516;
 "EA94BB3F-1054-4F03-AAB6-69C3B81B3CC3" = 0.17491;
 };
-name = Light;
+name = "Light 24pt";
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "400";
+},
+{
+Axis = "Optical size";
+Location = 24;
+}
+);
+},
+{
+name = "Grid Spacing";
+value = 0;
+}
+);
 interpolationWeight = 379;
 interpolationWidth = 24;
 instanceInterpolations = {
@@ -269497,9 +269615,24 @@ instanceInterpolations = {
 "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71" = 0.16075;
 "EA94BB3F-1054-4F03-AAB6-69C3B81B3CC3" = 0.47692;
 };
-name = Regular;
+name = "Regular 24pt";
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "500";
+},
+{
+Axis = "Optical size";
+Location = 24;
+}
+);
+}
+);
 interpolationWeight = 458;
 interpolationWidth = 24;
 instanceInterpolations = {
@@ -269509,10 +269642,25 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = ExtraLight;
-name = Medium;
+name = "Medium 24pt";
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "600";
+},
+{
+Axis = "Optical size";
+Location = 24;
+}
+);
+}
+);
 interpolationWeight = 542;
 interpolationWidth = 24;
 instanceInterpolations = {
@@ -269523,10 +269671,25 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = Light;
-name = SemiBold;
+name = "SemiBold 24pt";
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "700";
+},
+{
+Axis = "Optical size";
+Location = 24;
+}
+);
+}
+);
 interpolationWeight = 648;
 interpolationWidth = 24;
 instanceInterpolations = {
@@ -269537,17 +269700,32 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = Regular;
-name = Bold;
+name = "Bold 24pt";
 weightClass = Bold;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "800";
+},
+{
+Axis = "Optical size";
+Location = 24;
+}
+);
+}
+);
 interpolationWeight = 800;
 interpolationWidth = 24;
 instanceInterpolations = {
 "16E03120-9D89-4B3A-B1E3-633A6E865927" = 0.7;
 "338DAB22-2F62-42B0-AF6A-AC80FC784DAE" = 0.3;
 };
-name = ExtraBold;
+name = "ExtraBold 24pt";
 weightClass = ExtraBold;
 },
 {
@@ -269562,7 +269740,7 @@ interpolationWidth = 72;
 instanceInterpolations = {
 "09CD4194-2486-478D-AB32-B0AA8D4EDA22" = 1;
 };
-name = "ExtraLight Display";
+name = "ExtraLight 72pt";
 weightClass = ExtraLight;
 },
 {
@@ -269570,6 +269748,19 @@ customParameters = (
 {
 name = "Grid Spacing";
 value = 0;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "300";
+},
+{
+Axis = "Optical size";
+Location = 72;
+}
+);
 }
 );
 interpolationWeight = 295;
@@ -269578,19 +269769,57 @@ instanceInterpolations = {
 "09CD4194-2486-478D-AB32-B0AA8D4EDA22" = 0.68333;
 "B4536172-55B8-4884-A498-BDE07D5884DA" = 0.31667;
 };
-name = "Light Display";
+name = "Light 72pt";
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "400";
+},
+{
+Axis = "Optical size";
+Location = 72;
+}
+);
+},
+{
+name = "Grid Spacing";
+value = 0;
+}
+);
 interpolationWeight = 379;
 interpolationWidth = 72;
 instanceInterpolations = {
 "09CD4194-2486-478D-AB32-B0AA8D4EDA22" = 0.40333;
 "B4536172-55B8-4884-A498-BDE07D5884DA" = 0.59667;
 };
-name = "Regular Display";
+name = "Regular 72pt";
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "500";
+},
+{
+Axis = "Optical size";
+Location = 72;
+}
+);
+},
+{
+name = "Grid Spacing";
+value = 0;
+}
+);
 interpolationWeight = 458;
 interpolationWidth = 72;
 instanceInterpolations = {
@@ -269599,10 +269828,29 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "ExtraLight Display";
-name = "Medium Display";
+name = "Medium 72pt";
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "600";
+},
+{
+Axis = "Optical size";
+Location = 24;
+}
+);
+},
+{
+name = "Grid Spacing";
+value = 0;
+}
+);
 interpolationWeight = 542;
 interpolationWidth = 72;
 instanceInterpolations = {
@@ -269611,10 +269859,29 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "Light Display";
-name = "SemiBold Display";
+name = "SemiBold 72pt";
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "700";
+},
+{
+Axis = "Optical size";
+Location = 72;
+}
+);
+},
+{
+name = "Grid Spacing";
+value = 0;
+}
+);
 interpolationWeight = 648;
 interpolationWidth = 72;
 instanceInterpolations = {
@@ -269623,16 +269890,35 @@ instanceInterpolations = {
 };
 isBold = 1;
 linkStyle = "Regular Display";
-name = "Bold Display";
+name = "Bold 72pt";
 weightClass = Bold;
 },
 {
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "800";
+},
+{
+Axis = "Optical size";
+Location = 72;
+}
+);
+},
+{
+name = "Grid Spacing";
+value = 0;
+}
+);
 interpolationWeight = 800;
 interpolationWidth = 72;
 instanceInterpolations = {
 "5EAC5215-9D4A-4BA0-8B26-A551FA1A966A" = 1;
 };
-name = "ExtraBold Display";
+name = "ExtraBold 72pt";
 weightClass = ExtraBold;
 }
 );
