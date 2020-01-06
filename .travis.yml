@@ -3,6 +3,7 @@ language: python
 branches:
   only:
   - main
+  - vf_build
 
 install:
   - pip install --upgrade pip
