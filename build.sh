@@ -5,7 +5,7 @@ rm $OUTPUT_DIR -rf
 
 for src in $SOURCE_DIR/*.glyphs
 do
-  fontmake -g $src -o ttf -i --output-dir $OUTPUT_DIR/
+  fontmake -g $src -o variable --output-dir $OUTPUT_DIR/
 done
 
 for font in $OUTPUT_DIR/*.ttf
