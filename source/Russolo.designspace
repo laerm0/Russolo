@@ -10,7 +10,7 @@
       <map input="700" output="648"/>
       <map input="800" output="800"/>
     </axis>
-    <axis tag="opsz" name="Optical size" minimum="10" maximum="72" default="30"/>
+    <axis tag="opsz" name="Optical size" minimum="10" maximum="72" default="24"/>
   </axes>
   <sources>
     <source filename="../master_ufo/Russolo-ExtraLight.ufo" name="Russolo ExtraLight" familyname="Russolo" stylename="ExtraLight">
@@ -68,7 +68,7 @@
     <source filename="../master_ufo/Russolo-ExtraBoldText.ufo" name="Russolo ExtraBold Text" familyname="Russolo" stylename="ExtraBold Text">
       <location>
         <dimension name="Weight" xvalue="800"/>
-        <dimension name="Optical size" xvalue="10"/>
+        <dimension name="Optical size" xvalue="10" yvalue="760"/>
       </location>
     </source>
   </sources>
@@ -306,7 +306,7 @@
     </instance>
     <instance name="Russolo 10pt ExtraBold" familyname="Russolo" stylename="10pt ExtraBold" filename="../instance_ufo/Russolo-10ptExtraBold.ufo" stylemapfamilyname="Russolo 10pt ExtraBold" stylemapstylename="regular">
       <location>
-        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Weight" xvalue="800" yvalue="760"/>
         <dimension name="Optical size" xvalue="10"/>
       </location>
       <kerning/>
