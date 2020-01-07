@@ -1,5 +1,5 @@
 {
-.appVersion = "1282";
+.appVersion = "1283";
 classes = (
 {
 automatic = 1;
@@ -161,7 +161,7 @@ alignmentZones = (
 );
 ascender = 1514;
 capHeight = 1430;
-custom = Extra;
+custom = "24pt Extra";
 customParameters = (
 {
 name = paramArea;
@@ -218,7 +218,7 @@ horizontalStems = (
 );
 iconName = Light_SemiExtended;
 id = "1A84AFAC-8532-492C-A52A-D2ACD869B7F8";
-name = ExtraLight;
+name = "24pt ExtraLight";
 userData = {
 GSCornerRadius = 95;
 GSOffsetHorizontal = -75;
@@ -245,7 +245,7 @@ alignmentZones = (
 );
 ascender = 1514;
 capHeight = 1430;
-custom = Medium;
+custom = "24pt Medium";
 customParameters = (
 {
 name = paramArea;
@@ -327,7 +327,7 @@ alignmentZones = (
 );
 ascender = 1524;
 capHeight = 1445;
-custom = Extra;
+custom = "24pt Extra";
 customParameters = (
 {
 name = paramArea;
@@ -383,7 +383,7 @@ horizontalStems = (
 );
 iconName = Bold_SemiExtended;
 id = "16E03120-9D89-4B3A-B1E3-633A6E865927";
-name = ExtraBold;
+name = "24pt ExtraBold";
 userData = {
 GSCornerRadius = 135;
 GSOffsetHorizontal = 51;
@@ -411,7 +411,7 @@ alignmentZones = (
 );
 ascender = 1514;
 capHeight = 1430;
-custom = "Extra Display";
+custom = "72pt Extra";
 customParameters = (
 {
 name = paramArea;
@@ -466,7 +466,7 @@ horizontalStems = (
 13
 );
 id = "09CD4194-2486-478D-AB32-B0AA8D4EDA22";
-name = "ExtraLight Display";
+name = "72pt ExtraLight";
 userData = {
 GSCornerRadius = 75;
 GSOffsetHorizontal = 2;
@@ -494,7 +494,7 @@ alignmentZones = (
 );
 ascender = 1514;
 capHeight = 1438;
-custom = "Medium Display";
+custom = "72pt Medium";
 customParameters = (
 {
 name = paramArea;
@@ -577,7 +577,7 @@ alignmentZones = (
 );
 ascender = 1529;
 capHeight = 1445;
-custom = "Extra Display";
+custom = "72pt Extra";
 customParameters = (
 {
 name = paramArea;
@@ -632,7 +632,7 @@ horizontalStems = (
 71
 );
 id = "5EAC5215-9D4A-4BA0-8B26-A551FA1A966A";
-name = "ExtraBold Display";
+name = "72pt ExtraBold";
 userData = {
 GSCornerRadius = 135;
 GSOffsetHorizontal = 1;
@@ -660,7 +660,7 @@ alignmentZones = (
 );
 ascender = 1514;
 capHeight = 1430;
-custom = "Extra Text";
+custom = "10pt Extra";
 customParameters = (
 {
 name = paramArea;
@@ -718,7 +718,7 @@ horizontalStems = (
 );
 iconName = Light_Extended;
 id = "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71";
-name = "ExtraLight Text";
+name = "10pt ExtraLight";
 userData = {
 GSCornerRadius = 85;
 GSOffsetHorizontal = 0;
@@ -746,7 +746,7 @@ alignmentZones = (
 );
 ascender = 1518;
 capHeight = 1430;
-custom = "Medium Text";
+custom = "10pt Medium";
 customParameters = (
 {
 name = paramArea;
@@ -823,7 +823,7 @@ alignmentZones = (
 );
 ascender = 1524;
 capHeight = 1437;
-custom = "Extra Text";
+custom = "10pt Extra";
 customParameters = (
 {
 name = paramArea;
@@ -881,7 +881,7 @@ horizontalStems = (
 );
 iconName = Bold_Extended;
 id = "338DAB22-2F62-42B0-AF6A-AC80FC784DAE";
-name = "ExtraBold Text";
+name = "10pt ExtraBold";
 userData = {
 GSCornerRadius = 145;
 GSOffsetHorizontal = 5;
