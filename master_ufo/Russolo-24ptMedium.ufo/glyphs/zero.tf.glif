@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tf" format="2">
+  <advance width="1150"/>
+  <anchor x="587" y="710" name="center"/>
+  <outline>
+    <component base="zero" xOffset="-7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/01/08 21:49:11</string>
+    </dict>
+  </lib>
+</glyph>
