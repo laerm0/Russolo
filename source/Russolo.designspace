@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="200" maximum="800" default="200">
+    <axis tag="wght" name="Weight" minimum="200" maximum="800" default="500">
       <map input="200" output="200"/>
       <map input="300" output="295"/>
       <map input="400" output="379"/>
@@ -13,7 +13,7 @@
     <axis tag="opsz" name="Optical size" minimum="10" maximum="72" default="24"/>
   </axes>
   <sources>
-    <source filename="../master_ufo/Russolo-ExtraLight.ufo" name="Russolo ExtraLight" familyname="Russolo" stylename="ExtraLight">
+    <source filename="../master_ufo/Russolo-24ptExtraLight.ufo" name="Russolo 24pt ExtraLight" familyname="Russolo" stylename="24pt ExtraLight">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -23,52 +23,52 @@
         <dimension name="Optical size" xvalue="30"/>
       </location>
     </source>
-    <source filename="../master_ufo/Russolo-Medium.ufo" name="Russolo Medium" familyname="Russolo" stylename="Medium">
+    <source filename="../master_ufo/Russolo-24ptMedium.ufo" name="Russolo 24pt Medium" familyname="Russolo" stylename="24pt Medium">
       <location>
-        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Weight" xvalue="458"/>
         <dimension name="Optical size" xvalue="30"/>
       </location>
     </source>
-    <source filename="../master_ufo/Russolo-ExtraBold.ufo" name="Russolo ExtraBold" familyname="Russolo" stylename="ExtraBold">
+    <source filename="../master_ufo/Russolo-24ptExtraBold.ufo" name="Russolo 24pt ExtraBold" familyname="Russolo" stylename="24pt ExtraBold">
       <location>
         <dimension name="Weight" xvalue="800"/>
         <dimension name="Optical size" xvalue="30"/>
       </location>
     </source>
-    <source filename="../master_ufo/Russolo-ExtraLightDisplay.ufo" name="Russolo ExtraLight Display" familyname="Russolo" stylename="ExtraLight Display">
+    <source filename="../master_ufo/Russolo-72ptExtraLight.ufo" name="Russolo 72pt ExtraLight" familyname="Russolo" stylename="72pt ExtraLight">
       <location>
         <dimension name="Weight" xvalue="200"/>
         <dimension name="Optical size" xvalue="72"/>
       </location>
     </source>
-    <source filename="../master_ufo/Russolo-MediumDisplay.ufo" name="Russolo Medium Display" familyname="Russolo" stylename="Medium Display">
+    <source filename="../master_ufo/Russolo-72ptMedium.ufo" name="Russolo 72pt Medium" familyname="Russolo" stylename="72pt Medium">
       <location>
         <dimension name="Weight" xvalue="500"/>
         <dimension name="Optical size" xvalue="72"/>
       </location>
     </source>
-    <source filename="../master_ufo/Russolo-ExtraBoldDisplay.ufo" name="Russolo ExtraBold Display" familyname="Russolo" stylename="ExtraBold Display">
+    <source filename="../master_ufo/Russolo-72ptExtraBold.ufo" name="Russolo 72pt ExtraBold" familyname="Russolo" stylename="72pt ExtraBold">
       <location>
         <dimension name="Weight" xvalue="800"/>
         <dimension name="Optical size" xvalue="72"/>
       </location>
     </source>
-    <source filename="../master_ufo/Russolo-ExtraLightText.ufo" name="Russolo ExtraLight Text" familyname="Russolo" stylename="ExtraLight Text">
+    <source filename="../master_ufo/Russolo-10ptExtraLight.ufo" name="Russolo 10pt ExtraLight" familyname="Russolo" stylename="10pt ExtraLight">
       <location>
         <dimension name="Weight" xvalue="200"/>
         <dimension name="Optical size" xvalue="10"/>
       </location>
     </source>
-    <source filename="../master_ufo/Russolo-MediumText.ufo" name="Russolo Medium Text" familyname="Russolo" stylename="Medium Text">
+    <source filename="../master_ufo/Russolo-10ptMedium.ufo" name="Russolo 10pt Medium" familyname="Russolo" stylename="10pt Medium">
       <location>
         <dimension name="Weight" xvalue="458"/>
         <dimension name="Optical size" xvalue="10"/>
       </location>
     </source>
-    <source filename="../master_ufo/Russolo-ExtraBoldText.ufo" name="Russolo ExtraBold Text" familyname="Russolo" stylename="ExtraBold Text">
+    <source filename="../master_ufo/Russolo-10ptExtraBold.ufo" name="Russolo 10pt ExtraBold" familyname="Russolo" stylename="10pt ExtraBold">
       <location>
         <dimension name="Weight" xvalue="800"/>
-        <dimension name="Optical size" xvalue="10" yvalue="760"/>
+        <dimension name="Optical size" xvalue="10"/>
       </location>
     </source>
   </sources>
@@ -927,6 +927,13 @@
       </lib>
     </instance>
   </instances>
+    <rules>
+        <rule name="dubya">
+            <condition minimum="600" name="Weight" />
+            <sub name="W" with="W.rvrn"/>
+            <sub name="w" with="w.rvrn"/>
+        </rule>
+    </rules>
   <lib>
     <dict>
       <key>GSDimensionPlugin.Dimensions</key>
@@ -1166,6 +1173,25 @@
       </dict>
       <key>LWPluginVersion</key>
       <string>1392</string>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>H.t</string>
+        <string>O.t</string>
+        <string>apple</string>
+        <string>commercialMinusSign</string>
+        <string>downArrow</string>
+        <string>leftArrow</string>
+        <string>leftRightArrow</string>
+        <string>n.t</string>
+        <string>northEastArrow</string>
+        <string>northWestArrow</string>
+        <string>o.t</string>
+        <string>rightArrow</string>
+        <string>southEastArrow</string>
+        <string>southWestArrow</string>
+        <string>upArrow</string>
+        <string>upDownArrow</string>
+      </array>
     </dict>
   </lib>
 </designspace>
