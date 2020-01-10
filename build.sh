@@ -1,4 +1,4 @@
-OUTPUT_DIR=fonts/static
+OUTPUT_DIR=fonts/variable
 SOURCE_DIR=source
 
 rm $OUTPUT_DIR -rf
@@ -10,8 +10,16 @@ done
 
 for font in $OUTPUT_DIR/*.ttf
 do
+  mv $font Russolo\[opsz,wght\].ttf
   gftools fix-nonhinting $font $font
-  gftools fix-dsig $font --autofix
+  gftools fix-dsig --autofix $font
+  gftools fix-gasp --autofix $font
+  # ttx to remove MVAR
+    for ttx in $OUTPUT_DIR/*.ttx
+    do
+      ttx -x MVAR -f $font
+      ttx -f $ttx
+    done
 done
 
 # Cleanup gftools mess:
