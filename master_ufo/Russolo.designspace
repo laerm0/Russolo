@@ -1,7 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="Weight" minimum="200" maximum="800" default="200"/>
+    <axis tag="wght" name="Weight" minimum="200" maximum="800" default="200">
+      <map input="200" output="200"/>
+      <map input="300" output="295"/>
+      <map input="400" output="379"/>
+      <map input="500" output="458"/>
+      <map input="600" output="542"/>
+      <map input="700" output="648"/>
+      <map input="800" output="800"/>
+    </axis>
     <axis tag="opsz" name="Optical size" minimum="10" maximum="72" default="10"/>
   </axes>
   <sources>
@@ -89,21 +97,12 @@
               <integer>600</integer>
             </array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <integer>200</integer>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <string>10</string>
-                </dict>
-              </array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>ExtraLight Text</string>
             </array>
           </array>
         </dict>
@@ -125,29 +124,20 @@
               <integer>0</integer>
             </array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <integer>300</integer>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>10</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
             </array>
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>Light Text</string>
             </array>
           </array>
         </dict>
@@ -165,29 +155,20 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <integer>400</integer>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>10</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
             </array>
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>Regular Text</string>
             </array>
           </array>
         </dict>
@@ -205,29 +186,20 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <integer>500</integer>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>10</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
             </array>
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>Medium Text</string>
             </array>
           </array>
         </dict>
@@ -245,29 +217,20 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <integer>600</integer>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>10</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
             </array>
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>SemiBold Text</string>
             </array>
           </array>
         </dict>
@@ -285,29 +248,20 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <integer>700</integer>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>10</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
             </array>
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>Bold Text</string>
             </array>
           </array>
         </dict>
@@ -329,29 +283,20 @@
               <string>760</string>
             </array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <integer>800</integer>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>10</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
             </array>
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>ExtraBold Text</string>
             </array>
           </array>
         </dict>
@@ -381,21 +326,12 @@
               <integer>600</integer>
             </array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <integer>200</integer>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>24</integer>
-                </dict>
-              </array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>ExtraLight</string>
             </array>
           </array>
         </dict>
@@ -417,25 +353,16 @@
               <integer>0</integer>
             </array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>300</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>24</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>Light</string>
             </array>
             <array>
               <string>winDescent</string>
@@ -457,23 +384,6 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>400</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>24</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
@@ -484,6 +394,14 @@
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>Regular</string>
             </array>
           </array>
         </dict>
@@ -501,29 +419,20 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>500</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>24</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
             </array>
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>Medium</string>
             </array>
           </array>
         </dict>
@@ -541,29 +450,20 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>600</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>24</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
             </array>
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>SemiBold</string>
             </array>
           </array>
         </dict>
@@ -581,29 +481,20 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>700</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>24</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
             </array>
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>Bold</string>
             </array>
           </array>
         </dict>
@@ -621,29 +512,20 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>800</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>24</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
             </array>
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>ExtraBold</string>
             </array>
           </array>
         </dict>
@@ -673,21 +555,12 @@
               <integer>600</integer>
             </array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <integer>200</integer>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>72</integer>
-                </dict>
-              </array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>ExtraLight Display</string>
             </array>
           </array>
         </dict>
@@ -709,29 +582,20 @@
               <integer>0</integer>
             </array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>300</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>72</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>winAscent</string>
               <integer>2228</integer>
             </array>
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>ExtraLight Display</string>
             </array>
           </array>
         </dict>
@@ -749,23 +613,6 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>400</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>72</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
@@ -776,6 +623,14 @@
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>Regular Display</string>
             </array>
           </array>
         </dict>
@@ -793,23 +648,6 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>500</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>72</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
@@ -820,6 +658,14 @@
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>Medium Display</string>
             </array>
           </array>
         </dict>
@@ -837,23 +683,6 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>600</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>72</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
@@ -864,6 +693,14 @@
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>SemiBold Display</string>
             </array>
           </array>
         </dict>
@@ -881,23 +718,6 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>700</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>72</integer>
-                </dict>
-              </array>
-            </array>
-            <array>
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
@@ -908,6 +728,14 @@
             <array>
               <string>winDescent</string>
               <integer>600</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>Bold Display</string>
             </array>
           </array>
         </dict>
@@ -924,23 +752,6 @@
         <dict>
           <key>com.schriftgestaltung.customParameters</key>
           <array>
-            <array>
-              <string>Axis Location</string>
-              <array>
-                <dict>
-                  <key>Axis</key>
-                  <string>Weight</string>
-                  <key>Location</key>
-                  <string>800</string>
-                </dict>
-                <dict>
-                  <key>Axis</key>
-                  <string>Optical size</string>
-                  <key>Location</key>
-                  <integer>72</integer>
-                </dict>
-              </array>
-            </array>
             <array>
               <string>Grid Spacing</string>
               <integer>0</integer>
@@ -964,6 +775,14 @@
             <array>
               <string>typoLineGap</string>
               <integer>500</integer>
+            </array>
+            <array>
+              <string>preferredFamilyName</string>
+              <string>Russolo</string>
+            </array>
+            <array>
+              <string>preferredSubfamilyName</string>
+              <string>ExtraBold Display</string>
             </array>
           </array>
         </dict>

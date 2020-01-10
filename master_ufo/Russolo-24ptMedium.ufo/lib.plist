@@ -91,7 +91,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1283</string>
+    <string>1284</string>
     <key>com.schriftgestaltung.customName</key>
     <string>24pt Medium</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
@@ -113,8 +113,6 @@
     <array>
       <string>A</string>
     </array>
-    <key>com.schriftgestaltung.customParameter.GSFont.Variable Font Origin</key>
-    <string>C8B8CAAE-53B7-4454-A7BD-B5A20DCDB548</string>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.customParameter.GSFont.note</key>
@@ -167,21 +165,6 @@ Ovs 20
 Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is really 848 weight and UltraBold is the original 800. The new extremes were generated because Thin did not feel light enough and XBold did not feel dark enough. They were interpolated using Pablo math. </string>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
     <integer>0</integer>
-    <key>com.schriftgestaltung.customParameter.GSFontMaster.Axis Location</key>
-    <array>
-      <dict>
-        <key>Axis</key>
-        <string>Weight</string>
-        <key>Location</key>
-        <integer>500</integer>
-      </dict>
-      <dict>
-        <key>Axis</key>
-        <string>Optical size</string>
-        <key>Location</key>
-        <string>30</string>
-      </dict>
-    </array>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue1</key>
