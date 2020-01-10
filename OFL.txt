@@ -1,4 +1,4 @@
-Copyright 2019 The Russolo Project Authors (github.com/laerm0/Russolo)
+Copyright 2019 The Russolo Project Authors (https://github.com/laerm0/Russolo)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
