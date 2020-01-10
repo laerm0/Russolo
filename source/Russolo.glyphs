@@ -1,5 +1,5 @@
 {
-.appVersion = "1283";
+.appVersion = "1284";
 DisplayStrings = (
 A
 );
@@ -58,10 +58,6 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Variable Font Origin";
-value = "C8B8CAAE-53B7-4454-A7BD-B5A20DCDB548";
 }
 );
 date = "2020-01-07 16:40:41 +0000";
@@ -179,19 +175,6 @@ name = paramOver;
 value = "20";
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "200";
-},
-{
-Axis = "Optical size";
-Location = 10;
-}
-);
-},
-{
 name = typoAscender;
 value = 1514;
 },
@@ -210,10 +193,6 @@ value = 2403;
 {
 name = winDescent;
 value = 558;
-},
-{
-name = weightClass;
-value = 200;
 }
 );
 descender = -526;
@@ -269,19 +248,6 @@ name = paramOver;
 value = "20";
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-},
-{
-Axis = "Optical size";
-Location = 10;
-}
-);
-},
-{
 name = typoAscender;
 value = 1518;
 },
@@ -300,10 +266,6 @@ value = 2462;
 {
 name = winDescent;
 value = 569;
-},
-{
-name = weightClass;
-value = 500;
 }
 );
 descender = -526;
@@ -350,19 +312,6 @@ name = paramOver;
 value = "20";
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 800;
-},
-{
-Axis = "Optical size";
-Location = 10;
-}
-);
-},
-{
 name = typoAscender;
 value = 1524;
 },
@@ -381,10 +330,6 @@ value = 2573;
 {
 name = winDescent;
 value = 596;
-},
-{
-name = weightClass;
-value = 800;
 }
 );
 descender = -526;
@@ -440,19 +385,6 @@ name = paramOver;
 value = "20";
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 200;
-},
-{
-Axis = "Optical size";
-Location = 30;
-}
-);
-},
-{
 name = typoAscender;
 value = 1514;
 },
@@ -471,10 +403,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = weightClass;
-value = 200;
 }
 );
 descender = -526;
@@ -528,19 +456,6 @@ name = paramOver;
 value = "20";
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-},
-{
-Axis = "Optical size";
-Location = "30";
-}
-);
-},
-{
 name = typoAscender;
 value = 1514;
 },
@@ -559,10 +474,6 @@ value = 2460;
 {
 name = winDescent;
 value = 556;
-},
-{
-name = weightClass;
-value = 500;
 }
 );
 descender = -526;
@@ -614,19 +525,6 @@ name = paramOver;
 value = "20";
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 800;
-},
-{
-Axis = "Optical size";
-Location = "30";
-}
-);
-},
-{
 name = typoAscender;
 value = 1524;
 },
@@ -645,10 +543,6 @@ value = 2649;
 {
 name = winDescent;
 value = 556;
-},
-{
-name = weightClass;
-value = 800;
 }
 );
 descender = -526;
@@ -702,19 +596,6 @@ name = paramOver;
 value = "20";
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "200";
-},
-{
-Axis = "Optical size";
-Location = 72;
-}
-);
-},
-{
 name = typoAscender;
 value = 1514;
 },
@@ -733,10 +614,6 @@ value = 2257;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = weightClass;
-value = 200;
 }
 );
 descender = -526;
@@ -789,19 +666,6 @@ name = paramOver;
 value = "20";
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-},
-{
-Axis = "Optical size";
-Location = 72;
-}
-);
-},
-{
 name = typoAscender;
 value = 1514;
 },
@@ -820,10 +684,6 @@ value = 2316;
 {
 name = winDescent;
 value = 574;
-},
-{
-name = weightClass;
-value = 500;
 }
 );
 descender = -563;
@@ -876,19 +736,6 @@ name = paramOver;
 value = "20";
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 800;
-},
-{
-Axis = "Optical size";
-Location = 72;
-}
-);
-},
-{
 name = typoAscender;
 value = 1529;
 },
@@ -907,10 +754,6 @@ value = 2624;
 {
 name = winDescent;
 value = 598;
-},
-{
-name = weightClass;
-value = 800;
 }
 );
 descender = -526;
@@ -269602,21 +269445,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 200;
+name = preferredFamilyName;
+value = Russolo;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 200;
-},
-{
-Axis = "Optical size";
-Location = "10";
-}
-);
+name = preferredSubfamilyName;
+value = "ExtraLight Text";
 }
 );
 interpolationWeight = 200;
@@ -269634,19 +269468,6 @@ name = "Grid Spacing";
 value = 0;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-},
-{
-Axis = "Optical size";
-Location = 10;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
@@ -269655,8 +269476,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 300;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "Light Text";
 }
 );
 interpolationWeight = 295;
@@ -269671,19 +269496,6 @@ weightClass = Light;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-},
-{
-Axis = "Optical size";
-Location = 10;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
@@ -269692,8 +269504,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 400;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "Regular Text";
 }
 );
 interpolationWeight = 379;
@@ -269707,19 +269523,6 @@ name = "10pt Regular";
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 500;
-},
-{
-Axis = "Optical size";
-Location = 10;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
@@ -269728,8 +269531,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 500;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "Medium Text";
 }
 );
 interpolationWeight = 458;
@@ -269745,19 +269552,6 @@ weightClass = Medium;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 600;
-},
-{
-Axis = "Optical size";
-Location = 10;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
@@ -269766,8 +269560,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 600;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "SemiBold Text";
 }
 );
 interpolationWeight = 542;
@@ -269784,19 +269582,6 @@ weightClass = SemiBold;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-},
-{
-Axis = "Optical size";
-Location = 10;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
@@ -269805,8 +269590,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 700;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "Bold Text";
 }
 );
 interpolationWeight = 648;
@@ -269827,19 +269616,6 @@ name = InterpolationWeightY;
 value = "760";
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 800;
-},
-{
-Axis = "Optical size";
-Location = 10;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
@@ -269848,8 +269624,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 800;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "ExtraBold Text";
 }
 );
 interpolationWeight = 800;
@@ -269876,21 +269656,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 200;
+name = preferredFamilyName;
+value = Russolo;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 200;
-},
-{
-Axis = "Optical size";
-Location = 24;
-}
-);
+name = preferredSubfamilyName;
+value = ExtraLight;
 }
 );
 interpolationWeight = 200;
@@ -269909,29 +269680,20 @@ name = "Grid Spacing";
 value = 0;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "300";
-},
-{
-Axis = "Optical size";
-Location = 24;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
 {
-name = winDescent;
-value = 600;
+name = preferredFamilyName;
+value = Russolo;
 },
 {
-name = weightClass;
-value = 300;
+name = preferredSubfamilyName;
+value = Light;
+},
+{
+name = winDescent;
+value = 600;
 }
 );
 interpolationWeight = 295;
@@ -269948,19 +269710,6 @@ weightClass = Light;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "400";
-},
-{
-Axis = "Optical size";
-Location = 24;
-}
-);
-},
-{
 name = "Grid Spacing";
 value = 0;
 },
@@ -269973,8 +269722,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 400;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = Regular;
 }
 );
 interpolationWeight = 379;
@@ -269990,19 +269743,6 @@ name = "24pt Regular";
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "500";
-},
-{
-Axis = "Optical size";
-Location = 24;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
@@ -270011,8 +269751,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 500;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = Medium;
 }
 );
 interpolationWeight = 458;
@@ -270030,19 +269774,6 @@ weightClass = Medium;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "600";
-},
-{
-Axis = "Optical size";
-Location = 24;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
@@ -270051,8 +269782,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 600;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = SemiBold;
 }
 );
 interpolationWeight = 542;
@@ -270071,19 +269806,6 @@ weightClass = SemiBold;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "700";
-},
-{
-Axis = "Optical size";
-Location = 24;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
@@ -270092,8 +269814,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 700;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = Bold;
 }
 );
 interpolationWeight = 648;
@@ -270112,19 +269838,6 @@ weightClass = Bold;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "800";
-},
-{
-Axis = "Optical size";
-Location = 24;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
@@ -270133,8 +269846,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 800;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = ExtraBold;
 }
 );
 interpolationWeight = 800;
@@ -270161,21 +269878,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 200;
+name = preferredFamilyName;
+value = Russolo;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 200;
-},
-{
-Axis = "Optical size";
-Location = 72;
-}
-);
+name = preferredSubfamilyName;
+value = "ExtraLight Display";
 }
 );
 interpolationWeight = 200;
@@ -270193,19 +269901,6 @@ name = "Grid Spacing";
 value = 0;
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "300";
-},
-{
-Axis = "Optical size";
-Location = 72;
-}
-);
-},
-{
 name = winAscent;
 value = 2228;
 },
@@ -270214,8 +269909,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 300;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "ExtraLight Display";
 }
 );
 interpolationWeight = 295;
@@ -270230,19 +269929,6 @@ weightClass = Light;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "400";
-},
-{
-Axis = "Optical size";
-Location = 72;
-}
-);
-},
-{
 name = "Grid Spacing";
 value = 0;
 },
@@ -270255,8 +269941,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 400;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "Regular Display";
 }
 );
 interpolationWeight = 379;
@@ -270270,19 +269960,6 @@ name = "72pt Regular";
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "500";
-},
-{
-Axis = "Optical size";
-Location = 72;
-}
-);
-},
-{
 name = "Grid Spacing";
 value = 0;
 },
@@ -270295,8 +269972,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 500;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "Medium Display";
 }
 );
 interpolationWeight = 458;
@@ -270313,19 +269994,6 @@ weightClass = Medium;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "600";
-},
-{
-Axis = "Optical size";
-Location = 72;
-}
-);
-},
-{
 name = "Grid Spacing";
 value = 0;
 },
@@ -270338,8 +270006,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 600;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "SemiBold Display";
 }
 );
 interpolationWeight = 542;
@@ -270356,19 +270028,6 @@ weightClass = SemiBold;
 {
 customParameters = (
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "700";
-},
-{
-Axis = "Optical size";
-Location = 72;
-}
-);
-},
-{
 name = "Grid Spacing";
 value = 0;
 },
@@ -270381,8 +270040,12 @@ name = winDescent;
 value = 600;
 },
 {
-name = weightClass;
-value = 700;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "Bold Display";
 }
 );
 interpolationWeight = 648;
@@ -270398,19 +270061,6 @@ weightClass = Bold;
 },
 {
 customParameters = (
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "800";
-},
-{
-Axis = "Optical size";
-Location = 72;
-}
-);
-},
 {
 name = "Grid Spacing";
 value = 0;
@@ -270436,8 +270086,12 @@ name = typoLineGap;
 value = 500;
 },
 {
-name = weightClass;
-value = 800;
+name = preferredFamilyName;
+value = Russolo;
+},
+{
+name = preferredSubfamilyName;
+value = "ExtraBold Display";
 }
 );
 interpolationWeight = 800;
