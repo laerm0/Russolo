@@ -1,22 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="numero" format="2">
-  <advance width="2613"/>
+  <advance width="2611"/>
   <unicode hex="2116"/>
   <anchor x="756" y="0" name="bottom_1"/>
-  <anchor x="2058" y="0" name="bottom_2"/>
-  <anchor x="2058" y="457" name="center"/>
-  <anchor x="2198" y="0" name="ogonek"/>
+  <anchor x="2056" y="0" name="bottom_2"/>
+  <anchor x="2056" y="457" name="center"/>
+  <anchor x="2196" y="0" name="ogonek"/>
   <anchor x="756" y="1435" name="top_1"/>
-  <anchor x="2058" y="914" name="top_2"/>
-  <anchor x="2579" y="914" name="topright"/>
+  <anchor x="2056" y="914" name="top_2"/>
+  <anchor x="2577" y="914" name="topright"/>
   <outline>
     <component base="N"/>
-    <component base="o" xOffset="1502"/>
+    <component base="o" xOffset="1500"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
-    </dict>
-  </lib>
 </glyph>

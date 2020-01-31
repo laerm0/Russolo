@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two.numr" format="2">
-  <advance width="885"/>
+  <advance width="875"/>
   <outline>
     <component base="two.dnom" yOffset="510"/>
   </outline>
@@ -10,8 +10,6 @@
       <string>two.dnom</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>two.dnom</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
     </dict>
   </lib>
 </glyph>

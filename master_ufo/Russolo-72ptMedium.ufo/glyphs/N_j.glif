@@ -1,19 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nj" format="2">
-  <advance width="1937"/>
+  <advance width="1933"/>
   <unicode hex="01CB"/>
   <anchor x="756" y="0" name="bottom_1"/>
-  <anchor x="1699" y="-526" name="bottom_2"/>
+  <anchor x="1695" y="-526" name="bottom_2"/>
   <anchor x="756" y="1435" name="top_1"/>
-  <anchor x="1699" y="1307" name="top_2"/>
+  <anchor x="1695" y="1307" name="top_2"/>
   <outline>
     <component base="N"/>
-    <component base="j" xOffset="1472"/>
+    <component base="j" xOffset="1468"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 22:03:40</string>
-    </dict>
-  </lib>
 </glyph>

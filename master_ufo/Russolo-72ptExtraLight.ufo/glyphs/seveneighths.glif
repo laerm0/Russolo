@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seveneighths" format="2">
-  <advance width="1464"/>
+  <advance width="1539"/>
   <unicode hex="215E"/>
   <outline>
     <component base="seven.numr"/>
-    <component base="fraction" xOffset="617"/>
-    <component base="eight.dnom" xOffset="801"/>
+    <component base="fraction" xOffset="672"/>
+    <component base="eight.dnom" xOffset="876"/>
   </outline>
   <lib>
     <dict>
@@ -13,8 +13,6 @@
       <string>seven.numr</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>eight.numr</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
     </dict>
   </lib>
 </glyph>

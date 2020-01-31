@@ -10,7 +10,7 @@ Q
   <anchor x="806" y="715.5025" name="center"/>
   <anchor x="976" y="-2.0" name="ogonek"/>
   <anchor x="28" y="1433.005" name="topleft"/>
-  <anchor x="1583" y="1433.005" name="topright"/>
+  <anchor x="1423" y="1433.005" name="topright"/>
   <outline>
     <contour>
       <point x="1096" y="-401" type="curve" smooth="yes"/>
@@ -40,8 +40,6 @@ Q
       <string>O</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>O</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

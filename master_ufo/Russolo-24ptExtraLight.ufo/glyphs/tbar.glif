@@ -8,12 +8,10 @@
   <anchor x="391" y="1284" name="topright"/>
   <outline>
     <component base="t"/>
-    <component base="tstrokeshortcomb" xOffset="-16"/>
+    <component base="_tstrokeshortcomb" xOffset="-16"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

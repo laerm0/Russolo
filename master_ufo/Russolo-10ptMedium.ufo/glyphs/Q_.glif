@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q" format="2">
-  <advance width="1654"/>
+  <advance width="1655"/>
   <unicode hex="0051"/>
   <note>
 Q
@@ -10,7 +10,7 @@ Q
   <anchor x="828" y="756.85285" name="center"/>
   <anchor x="955" y="39.0" name="ogonek"/>
   <anchor x="25" y="1474.7057" name="topleft"/>
-  <anchor x="1631" y="1474.7057" name="topright"/>
+  <anchor x="1421" y="1474.7057" name="topright"/>
   <outline>
     <contour>
       <point x="1055" y="-380" type="curve" smooth="yes"/>
@@ -40,8 +40,6 @@ Q
       <string>O</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>O</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>
