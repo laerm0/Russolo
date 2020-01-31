@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onehalf" format="2">
-  <advance width="2161"/>
+  <advance width="2097"/>
   <unicode hex="00BD"/>
   <outline>
     <component base="one.numr"/>
-    <component base="fraction" xOffset="944"/>
-    <component base="two.dnom" xOffset="1244"/>
+    <component base="fraction" xOffset="909"/>
+    <component base="two.dnom" xOffset="1180"/>
   </outline>
   <lib>
     <dict>
@@ -13,8 +13,6 @@
       <string>one.numr</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>one.numr</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
     </dict>
   </lib>
 </glyph>

@@ -3,6 +3,11 @@ SOURCE_DIR=source
 
 rm $OUTPUT_DIR -rf
 
+for src in $SOURCE_DIR/*.glyphs
+do
+  fontmake -g $src -o ufo -i --subset --output-dir master_ufo
+done
+
 for src in $SOURCE_DIR/*.designspace
 do
   fontmake -m $src -o variable --output-dir $OUTPUT_DIR/

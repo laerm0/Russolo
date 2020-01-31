@@ -5,15 +5,13 @@
   <anchor x="804" y="50" name="bottom"/>
   <anchor x="970" y="0" name="ogonek"/>
   <anchor x="804" y="1934" name="top"/>
-  <anchor x="1614" y="1430" name="topright"/>
+  <anchor x="1454" y="1430" name="topright"/>
   <outline>
     <component base="U"/>
     <component base="hungarumlautcomb.case" xOffset="302" yOffset="520"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>
