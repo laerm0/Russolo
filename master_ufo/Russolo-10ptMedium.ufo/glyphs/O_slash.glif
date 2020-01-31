@@ -10,15 +10,13 @@ Oslash
   <anchor x="828" y="715" name="center"/>
   <anchor x="955" y="0" name="ogonek"/>
   <anchor x="25" y="1430" name="topleft"/>
-  <anchor x="1631" y="1430" name="topright"/>
+  <anchor x="1421" y="1430" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="slashlongcomb.case" xOffset="66" yOffset="-6"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 22:03:40</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

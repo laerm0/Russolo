@@ -10,10 +10,4 @@
     <component base="N"/>
     <component base="J" xOffset="1498"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 22:03:40</string>
-    </dict>
-  </lib>
 </glyph>

@@ -2,6 +2,6 @@
 <glyph name="tbar" format="2">
   <outline>
     <component base="t"/>
-    <component base="tstrokeshortcomb" xOffset="14" yOffset="-66"/>
+    <component base="_tstrokeshortcomb" xOffset="14" yOffset="-66"/>
   </outline>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.1">
+<designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="200" maximum="800" default="200">
-      <map input="200" output="200"/>
+    <axis tag="wght" name="Weight" minimum="275" maximum="800" default="275">
+      <map input="275" output="200"/>
       <map input="300" output="295"/>
       <map input="400" output="379"/>
       <map input="500" output="458"/>
@@ -174,7 +174,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Russolo 10pt Medium" familyname="Russolo" stylename="10pt Medium" filename="../instance_ufo/Russolo-10ptMedium.ufo" stylemapfamilyname="Russolo 10pt ExtraLight" stylemapstylename="bold">
+    <instance name="Russolo 10pt Medium" familyname="Russolo" stylename="10pt Medium" filename="../instance_ufo/Russolo-10ptMedium.ufo" stylemapfamilyname="Russolo 10pt Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="458"/>
         <dimension name="Optical size" xvalue="10"/>
@@ -205,7 +205,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Russolo 10pt SemiBold" familyname="Russolo" stylename="10pt SemiBold" filename="../instance_ufo/Russolo-10ptSemiBold.ufo" stylemapfamilyname="Russolo 10pt Light" stylemapstylename="bold">
+    <instance name="Russolo 10pt SemiBold" familyname="Russolo" stylename="10pt SemiBold" filename="../instance_ufo/Russolo-10ptSemiBold.ufo" stylemapfamilyname="Russolo 10pt SemiBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="542"/>
         <dimension name="Optical size" xvalue="10"/>
@@ -236,7 +236,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Russolo 10pt Bold" familyname="Russolo" stylename="10pt Bold" filename="../instance_ufo/Russolo-10ptBold.ufo" stylemapfamilyname="Russolo 10pt Regular" stylemapstylename="bold">
+    <instance name="Russolo 10pt Bold" familyname="Russolo" stylename="10pt Bold" filename="../instance_ufo/Russolo-10ptBold.ufo" stylemapfamilyname="Russolo 10pt" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="648"/>
         <dimension name="Optical size" xvalue="10"/>
@@ -407,7 +407,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Russolo 24pt Medium" familyname="Russolo" stylename="24pt Medium" filename="../instance_ufo/Russolo-24ptMedium.ufo" stylemapfamilyname="Russolo 24pt ExtraLight" stylemapstylename="bold">
+    <instance name="Russolo 24pt Medium" familyname="Russolo" stylename="24pt Medium" filename="../instance_ufo/Russolo-24ptMedium.ufo" stylemapfamilyname="Russolo 24pt Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="458"/>
         <dimension name="Optical size" xvalue="24"/>
@@ -438,7 +438,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Russolo 24pt SemiBold" familyname="Russolo" stylename="24pt SemiBold" filename="../instance_ufo/Russolo-24ptSemiBold.ufo" stylemapfamilyname="Russolo 24pt Light" stylemapstylename="bold">
+    <instance name="Russolo 24pt SemiBold" familyname="Russolo" stylename="24pt SemiBold" filename="../instance_ufo/Russolo-24ptSemiBold.ufo" stylemapfamilyname="Russolo 24pt SemiBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="542"/>
         <dimension name="Optical size" xvalue="24"/>
@@ -469,7 +469,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Russolo 24pt Bold" familyname="Russolo" stylename="24pt Bold" filename="../instance_ufo/Russolo-24ptBold.ufo" stylemapfamilyname="Russolo 24pt Regular" stylemapstylename="bold">
+    <instance name="Russolo 24pt Bold" familyname="Russolo" stylename="24pt Bold" filename="../instance_ufo/Russolo-24ptBold.ufo" stylemapfamilyname="Russolo 24pt" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="648"/>
         <dimension name="Optical size" xvalue="24"/>
@@ -636,7 +636,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Russolo 72pt Medium" familyname="Russolo" stylename="72pt Medium" filename="../instance_ufo/Russolo-72ptMedium.ufo" stylemapfamilyname="Russolo 72pt ExtraLight" stylemapstylename="bold">
+    <instance name="Russolo 72pt Medium" familyname="Russolo" stylename="72pt Medium" filename="../instance_ufo/Russolo-72ptMedium.ufo" stylemapfamilyname="Russolo 72pt Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="458"/>
         <dimension name="Optical size" xvalue="72"/>
@@ -671,7 +671,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Russolo 72pt SemiBold" familyname="Russolo" stylename="72pt SemiBold" filename="../instance_ufo/Russolo-72ptSemiBold.ufo" stylemapfamilyname="Russolo 72pt Light" stylemapstylename="bold">
+    <instance name="Russolo 72pt SemiBold" familyname="Russolo" stylename="72pt SemiBold" filename="../instance_ufo/Russolo-72ptSemiBold.ufo" stylemapfamilyname="Russolo 72pt SemiBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="542"/>
         <dimension name="Optical size" xvalue="72"/>
@@ -706,7 +706,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Russolo 72pt Bold" familyname="Russolo" stylename="72pt Bold" filename="../instance_ufo/Russolo-72ptBold.ufo" stylemapfamilyname="Russolo 72pt Regular" stylemapstylename="bold">
+    <instance name="Russolo 72pt Bold" familyname="Russolo" stylename="72pt Bold" filename="../instance_ufo/Russolo-72ptBold.ufo" stylemapfamilyname="Russolo 72pt" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="648"/>
         <dimension name="Optical size" xvalue="72"/>
@@ -803,6 +803,10 @@
           <string>14</string>
           <key>OV</key>
           <string>92</string>
+          <key>cyDeVthin</key>
+          <string>42</string>
+          <key>cydeH</key>
+          <string>10</string>
           <key>nV</key>
           <string>72</string>
           <key>oH</key>
@@ -822,12 +826,20 @@
           <string>70</string>
           <key>OV</key>
           <string>342</string>
+          <key>cyDeVthin</key>
+          <string>191</string>
+          <key>cydeH</key>
+          <string>70</string>
           <key>nV</key>
           <string>332</string>
+          <key>nd</key>
+          <string>75</string>
           <key>oH</key>
           <string>71</string>
           <key>oV</key>
           <string>336</string>
+          <key>tH</key>
+          <string>70</string>
         </dict>
         <key>174F56CC-FB68-417A-9015-5BEC26100168</key>
         <dict>
@@ -843,7 +855,11 @@
           <key>OH</key>
           <string>30</string>
           <key>OV</key>
-          <string>65</string>
+          <string>77</string>
+          <key>cyDeVthin</key>
+          <string>42</string>
+          <key>cydeH</key>
+          <string>23</string>
           <key>nV</key>
           <string>52</string>
           <key>nd</key>
@@ -877,7 +893,37 @@
           <string>60</string>
         </dict>
         <key>338DAB22-2F62-42B0-AF6A-AC80FC784DAE</key>
-        <dict/>
+        <dict>
+          <key>HH</key>
+          <string>196</string>
+          <key>HV</key>
+          <string>387</string>
+          <key>OH</key>
+          <string>189</string>
+          <key>OV</key>
+          <string>379</string>
+          <key>cyDeVthin</key>
+          <string>191</string>
+          <key>cyHook</key>
+          <string>185</string>
+          <key>cydeH</key>
+          <string>201</string>
+          <key>nV</key>
+          <string>378</string>
+          <key>nd</key>
+          <string>198</string>
+          <key>oH</key>
+          <string>202</string>
+          <key>oV</key>
+          <string>384</string>
+          <key>tH</key>
+          <string>201</string>
+        </dict>
+        <key>50B3BD20-6B7E-4A37-88B3-070541B8FD4C</key>
+        <dict>
+          <key>nV</key>
+          <string>212</string>
+        </dict>
         <key>5EAC5215-9D4A-4BA0-8B26-A551FA1A966A</key>
         <dict>
           <key>HH</key>
@@ -888,6 +934,8 @@
           <string>30</string>
           <key>OV</key>
           <string>300</string>
+          <key>cyDeVthin</key>
+          <string>131</string>
           <key>nV</key>
           <string>282</string>
           <key>nd</key>
@@ -972,6 +1020,8 @@
           <string>22</string>
           <key>OV</key>
           <string>196</string>
+          <key>cydeH</key>
+          <string>20</string>
           <key>nV</key>
           <string>177</string>
           <key>nd</key>
@@ -988,13 +1038,19 @@
           <key>HH</key>
           <string>77</string>
           <key>HV</key>
-          <string>88</string>
+          <string>83</string>
           <key>OH</key>
           <string>79</string>
           <key>OV</key>
-          <string>105</string>
+          <string>101</string>
+          <key>cyDeVthin</key>
+          <string>72</string>
+          <key>cyHook</key>
+          <string>73</string>
+          <key>cydeH</key>
+          <string>80</string>
           <key>nV</key>
-          <string>86</string>
+          <string>87</string>
           <key>nd</key>
           <string>81</string>
           <key>oH</key>
@@ -1028,25 +1084,6 @@
       </dict>
       <key>LWPluginVersion</key>
       <string>1392</string>
-      <key>public.skipExportGlyphs</key>
-      <array>
-        <string>H.t</string>
-        <string>O.t</string>
-        <string>apple</string>
-        <string>commercialMinusSign</string>
-        <string>downArrow</string>
-        <string>leftArrow</string>
-        <string>leftRightArrow</string>
-        <string>n.t</string>
-        <string>northEastArrow</string>
-        <string>northWestArrow</string>
-        <string>o.t</string>
-        <string>rightArrow</string>
-        <string>southEastArrow</string>
-        <string>southWestArrow</string>
-        <string>upArrow</string>
-        <string>upDownArrow</string>
-      </array>
     </dict>
   </lib>
 </designspace>

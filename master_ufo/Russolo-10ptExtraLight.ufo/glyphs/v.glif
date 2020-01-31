@@ -14,18 +14,16 @@ v
     <contour>
       <point x="543" y="-27" type="line"/>
       <point x="548" y="-27" type="line"/>
-      <point x="1007" y="989" type="line"/>
-      <point x="929" y="989" type="line"/>
+      <point x="1008" y="990" type="line"/>
+      <point x="930" y="990" type="line"/>
       <point x="529" y="81" type="line"/>
       <point x="578" y="124" type="line"/>
       <point x="186" y="990" type="line"/>
-      <point x="75" y="989" type="line"/>
+      <point x="74" y="990" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
       <key>public.markColor</key>
       <string>0.99,0.62,0.11,1</string>
     </dict>

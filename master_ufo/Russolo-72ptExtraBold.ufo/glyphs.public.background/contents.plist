@@ -4,10 +4,26 @@
   <dict>
     <key>AE</key>
     <string>A_E_.glif</string>
+    <key>Dje-cy</key>
+    <string>D_je-cy.glif</string>
+    <key>Ef-cy</key>
+    <string>E_f-cy.glif</string>
+    <key>El-cy</key>
+    <string>E_l-cy.glif</string>
+    <key>En-cy</key>
+    <string>E_n-cy.glif</string>
     <key>F</key>
     <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>Gje-cy</key>
+    <string>G_je-cy.glif</string>
+    <key>Imacron-cy</key>
+    <string>I_macron-cy.glif</string>
+    <key>Ka-cy</key>
+    <string>K_a-cy.glif</string>
+    <key>Kje-cy</key>
+    <string>K_je-cy.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>O</key>
@@ -16,6 +32,12 @@
     <string>O_.t.glif</string>
     <key>R</key>
     <string>R_.glif</string>
+    <key>Sha-cy</key>
+    <string>S_ha-cy.glif</string>
+    <key>U-cy</key>
+    <string>U_-cy.glif</string>
+    <key>Umacron-cy</key>
+    <string>U_macron-cy.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>W</key>
@@ -40,6 +62,8 @@
     <string>eight.dnom.glif</string>
     <key>eng</key>
     <string>eng.glif</string>
+    <key>ereversed-cy</key>
+    <string>ereversed-cy.glif</string>
     <key>f_f</key>
     <string>f_f.glif</string>
     <key>f_f_i</key>
@@ -52,10 +76,16 @@
     <string>five.dnom.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
+    <key>gje-cy</key>
+    <string>gje-cy.glif</string>
+    <key>imacron-cy</key>
+    <string>imacron-cy.glif</string>
     <key>jdotless</key>
     <string>jdotless.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>kje-cy</key>
+    <string>kje-cy.glif</string>
     <key>m</key>
     <string>m.glif</string>
     <key>m.rvrn</key>
@@ -68,6 +98,8 @@
     <string>trademark.glif</string>
     <key>y</key>
     <string>y.glif</string>
+    <key>yeru-cy</key>
+    <string>yeru-cy.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
     <key>zero.dnom</key>

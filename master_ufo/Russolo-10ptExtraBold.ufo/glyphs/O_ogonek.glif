@@ -7,15 +7,13 @@
   <anchor x="1082" y="0" name="ogonek"/>
   <anchor x="891" y="1430" name="top"/>
   <anchor x="64" y="1430" name="topleft"/>
-  <anchor x="1718" y="1430" name="topright"/>
+  <anchor x="1448" y="1430" name="topright"/>
   <outline>
     <component base="O"/>
     <component base="ogonekcomb.case" xOffset="606"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 22:03:40</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

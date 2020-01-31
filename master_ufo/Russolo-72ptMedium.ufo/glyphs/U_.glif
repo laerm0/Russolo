@@ -8,7 +8,7 @@ U
   <anchor x="746" y="0" name="bottom"/>
   <anchor x="912" y="0" name="ogonek"/>
   <anchor x="746" y="1435" name="top"/>
-  <anchor x="1667" y="1435" name="topright"/>
+  <anchor x="1337" y="1435" name="topright"/>
   <outline>
     <contour>
       <point x="746" y="-33" type="curve" smooth="yes"/>
@@ -33,8 +33,6 @@ U
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
       <key>public.markColor</key>
       <string>0.99,0.62,0.11,1</string>
     </dict>
