@@ -12,10 +12,14 @@
     <integer>-526</integer>
     <key>familyName</key>
     <string>Russolo</string>
+    <key>guidelines</key>
+    <array/>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2020/01/07 16:40:41</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1524</integer>
     <key>openTypeNameDesigner</key>
     <string>Micah Stupak-Hahn</string>
     <key>openTypeNameDesignerURL</key>
@@ -39,9 +43,9 @@
     <key>openTypeOS2VendorID</key>
     <string>M+F</string>
     <key>openTypeOS2WinAscent</key>
-    <integer>2573</integer>
+    <integer>2649</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>596</integer>
+    <integer>600</integer>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-44</integer>
@@ -53,6 +57,10 @@
       <integer>1524</integer>
       <integer>1570</integer>
     </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-583</integer>

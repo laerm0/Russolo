@@ -6,13 +6,11 @@
 semicolon
 </note>
   <outline>
-    <component base="comma" xOffset="16" yOffset="28"/>
-    <component base="period" xOffset="112" yOffset="660"/>
+    <component base="comma" xOffset="50" yOffset="28"/>
+    <component base="period" xOffset="63" yOffset="660"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>-1</integer>

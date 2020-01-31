@@ -15,8 +15,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 22:03:40</string>
       <key>com.schriftgestaltung.componentsAlignment</key>
       <array>
         <integer>0</integer>

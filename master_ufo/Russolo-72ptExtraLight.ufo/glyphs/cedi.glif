@@ -8,10 +8,4 @@
     <component base="C"/>
     <component base="currency_vert_stroke.case" xOffset="514"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2020/01/08 21:49:11</string>
-    </dict>
-  </lib>
 </glyph>

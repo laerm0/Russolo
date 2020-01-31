@@ -5,11 +5,11 @@
     <key>GSCornerRadius</key>
     <integer>135</integer>
     <key>GSOffsetHorizontal</key>
-    <integer>51</integer>
+    <integer>-20</integer>
     <key>GSOffsetKeepCompatible</key>
     <integer>1</integer>
     <key>GSOffsetVertical</key>
-    <integer>15</integer>
+    <integer>-50</integer>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.eight.dnom</key>
     <dict>
       <key>RMXScaler</key>
@@ -91,7 +91,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1284</string>
+    <string>1287</string>
     <key>com.schriftgestaltung.customName</key>
     <string>24pt Extra</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
@@ -110,11 +110,13 @@
       </dict>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <array>
-      <string>A</string>
-    </array>
+    <string></string>
+    <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
+    <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
+    <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
+    <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.note</key>
     <string>.orig glyphs are the 100% versions; the others are 90% of .orig
 
@@ -187,6 +189,8 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
     <integer>30</integer>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>5</integer>
+    <key>com.schriftgestaltung.glyphOrder</key>
+    <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
@@ -199,13 +203,909 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
     <integer>30</integer>
     <key>public.glyphOrder</key>
     <array>
-      <string>.notdef</string>
-      <string>uni0000</string>
-      <string>uni000D</string>
+      <string>A</string>
+      <string>Aacute</string>
+      <string>Abreve</string>
+      <string>Abreveacute</string>
+      <string>Abrevedotbelow</string>
+      <string>Abrevegrave</string>
+      <string>Abrevehookabove</string>
+      <string>Abrevetilde</string>
+      <string>Acircumflex</string>
+      <string>Acircumflexacute</string>
+      <string>Acircumflexdotbelow</string>
+      <string>Acircumflexgrave</string>
+      <string>Acircumflexhookabove</string>
+      <string>Acircumflextilde</string>
+      <string>Adblgrave</string>
+      <string>Adieresis</string>
+      <string>Adotbelow</string>
+      <string>Agrave</string>
+      <string>Ahookabove</string>
+      <string>Ainvertedbreve</string>
+      <string>Amacron</string>
+      <string>Aogonek</string>
+      <string>Aring</string>
+      <string>Aringacute</string>
+      <string>Atilde</string>
+      <string>AE</string>
+      <string>AEacute</string>
+      <string>B</string>
+      <string>C</string>
+      <string>Cacute</string>
+      <string>Ccaron</string>
+      <string>Ccedilla</string>
+      <string>Ccircumflex</string>
+      <string>Cdotaccent</string>
+      <string>D</string>
+      <string>DZcaron</string>
+      <string>Eth</string>
+      <string>Dcaron</string>
+      <string>Dcroat</string>
+      <string>Dzcaron</string>
+      <string>E</string>
+      <string>Eacute</string>
+      <string>Ebreve</string>
+      <string>Ecaron</string>
+      <string>Ecircumflex</string>
+      <string>Ecircumflexacute</string>
+      <string>Ecircumflexdotbelow</string>
+      <string>Ecircumflexgrave</string>
+      <string>Ecircumflexhookabove</string>
+      <string>Ecircumflextilde</string>
+      <string>Edblgrave</string>
+      <string>Edieresis</string>
+      <string>Edotaccent</string>
+      <string>Edotbelow</string>
+      <string>Egrave</string>
+      <string>Ehookabove</string>
+      <string>Einvertedbreve</string>
+      <string>Emacron</string>
+      <string>Eogonek</string>
+      <string>Etilde</string>
+      <string>F</string>
+      <string>G</string>
+      <string>Gbreve</string>
+      <string>Gcaron</string>
+      <string>Gcircumflex</string>
+      <string>Gcommaaccent</string>
+      <string>Gdotaccent</string>
+      <string>H</string>
+      <string>Hbar</string>
+      <string>Hcircumflex</string>
+      <string>I</string>
+      <string>Iacute</string>
+      <string>Ibreve</string>
+      <string>Icircumflex</string>
+      <string>Idblgrave</string>
+      <string>Idieresis</string>
+      <string>Idotaccent</string>
+      <string>Idotbelow</string>
+      <string>Igrave</string>
+      <string>Ihookabove</string>
+      <string>Iinvertedbreve</string>
+      <string>Imacron</string>
+      <string>Iogonek</string>
+      <string>Itilde</string>
+      <string>J</string>
+      <string>Jcircumflex</string>
+      <string>K</string>
+      <string>Kcommaaccent</string>
+      <string>L</string>
+      <string>LJ</string>
+      <string>Lacute</string>
+      <string>Lcaron</string>
+      <string>Lcommaaccent</string>
+      <string>Ldot</string>
+      <string>Lj</string>
+      <string>Lslash</string>
+      <string>M</string>
+      <string>N</string>
+      <string>NJ</string>
+      <string>Nacute</string>
+      <string>Ncaron</string>
+      <string>Ncommaaccent</string>
+      <string>Eng</string>
+      <string>Nj</string>
+      <string>Ntilde</string>
+      <string>O</string>
+      <string>Oacute</string>
+      <string>Obreve</string>
+      <string>Ocircumflex</string>
+      <string>Ocircumflexacute</string>
+      <string>Ocircumflexdotbelow</string>
+      <string>Ocircumflexgrave</string>
+      <string>Ocircumflexhookabove</string>
+      <string>Ocircumflextilde</string>
+      <string>Odblgrave</string>
+      <string>Odieresis</string>
+      <string>Odieresismacron</string>
+      <string>Odotaccentmacron</string>
+      <string>Odotbelow</string>
+      <string>Ograve</string>
+      <string>Ohookabove</string>
+      <string>Ohorn</string>
+      <string>Ohornacute</string>
+      <string>Ohorndotbelow</string>
+      <string>Ohorngrave</string>
+      <string>Ohornhookabove</string>
+      <string>Ohorntilde</string>
+      <string>Ohungarumlaut</string>
+      <string>Oinvertedbreve</string>
+      <string>Omacron</string>
+      <string>Oogonek</string>
+      <string>Oslash</string>
+      <string>Oslashacute</string>
+      <string>Otilde</string>
+      <string>Otildemacron</string>
+      <string>OE</string>
+      <string>P</string>
+      <string>Thorn</string>
+      <string>Q</string>
+      <string>R</string>
+      <string>Racute</string>
+      <string>Rcaron</string>
+      <string>Rcommaaccent</string>
+      <string>Rdblgrave</string>
+      <string>Rinvertedbreve</string>
+      <string>S</string>
+      <string>Sacute</string>
+      <string>Scaron</string>
+      <string>Scedilla</string>
+      <string>Scircumflex</string>
+      <string>Scommaaccent</string>
+      <string>Germandbls</string>
+      <string>Schwa</string>
+      <string>T</string>
+      <string>Tbar</string>
+      <string>Tcaron</string>
+      <string>Tcedilla</string>
+      <string>Tcommaaccent</string>
+      <string>U</string>
+      <string>Uacute</string>
+      <string>Ubreve</string>
+      <string>Ucircumflex</string>
+      <string>Udblgrave</string>
+      <string>Udieresis</string>
+      <string>Udotbelow</string>
+      <string>Ugrave</string>
+      <string>Uhookabove</string>
+      <string>Uhorn</string>
+      <string>Uhornacute</string>
+      <string>Uhorndotbelow</string>
+      <string>Uhorngrave</string>
+      <string>Uhornhookabove</string>
+      <string>Uhorntilde</string>
+      <string>Uhungarumlaut</string>
+      <string>Uinvertedbreve</string>
+      <string>Umacron</string>
+      <string>Uogonek</string>
+      <string>Uring</string>
+      <string>Utilde</string>
+      <string>V</string>
+      <string>W</string>
+      <string>Wacute</string>
+      <string>Wcircumflex</string>
+      <string>Wdieresis</string>
+      <string>Wgrave</string>
+      <string>X</string>
+      <string>Y</string>
+      <string>Yacute</string>
+      <string>Ycircumflex</string>
+      <string>Ydieresis</string>
+      <string>Ydotbelow</string>
+      <string>Ygrave</string>
+      <string>Yhookabove</string>
+      <string>Ymacron</string>
+      <string>Ytilde</string>
+      <string>Z</string>
+      <string>Zacute</string>
+      <string>Zcaron</string>
+      <string>Zdotaccent</string>
+      <string>W.rvrn</string>
+      <string>H.t</string>
+      <string>O.t</string>
+      <string>a</string>
+      <string>aacute</string>
+      <string>abreve</string>
+      <string>abreveacute</string>
+      <string>abrevedotbelow</string>
+      <string>abrevegrave</string>
+      <string>abrevehookabove</string>
+      <string>abrevetilde</string>
+      <string>acircumflex</string>
+      <string>acircumflexacute</string>
+      <string>acircumflexdotbelow</string>
+      <string>acircumflexgrave</string>
+      <string>acircumflexhookabove</string>
+      <string>acircumflextilde</string>
+      <string>adblgrave</string>
+      <string>adieresis</string>
+      <string>adotbelow</string>
+      <string>agrave</string>
+      <string>ahookabove</string>
+      <string>ainvertedbreve</string>
+      <string>amacron</string>
+      <string>aogonek</string>
+      <string>aring</string>
+      <string>aringacute</string>
+      <string>atilde</string>
+      <string>ae</string>
+      <string>aeacute</string>
+      <string>b</string>
+      <string>c</string>
+      <string>cacute</string>
+      <string>ccaron</string>
+      <string>ccedilla</string>
+      <string>ccircumflex</string>
+      <string>cdotaccent</string>
+      <string>d</string>
+      <string>eth</string>
+      <string>dcaron</string>
+      <string>dcroat</string>
+      <string>dzcaron</string>
+      <string>e</string>
+      <string>eacute</string>
+      <string>ebreve</string>
+      <string>ecaron</string>
+      <string>ecircumflex</string>
+      <string>ecircumflexacute</string>
+      <string>ecircumflexdotbelow</string>
+      <string>ecircumflexgrave</string>
+      <string>ecircumflexhookabove</string>
+      <string>ecircumflextilde</string>
+      <string>edblgrave</string>
+      <string>edieresis</string>
+      <string>edotaccent</string>
+      <string>edotbelow</string>
+      <string>egrave</string>
+      <string>ehookabove</string>
+      <string>einvertedbreve</string>
+      <string>emacron</string>
+      <string>eogonek</string>
+      <string>etilde</string>
+      <string>schwa</string>
+      <string>f</string>
+      <string>g</string>
+      <string>gbreve</string>
+      <string>gcaron</string>
+      <string>gcircumflex</string>
+      <string>gcommaaccent</string>
+      <string>gdotaccent</string>
+      <string>h</string>
+      <string>hbar</string>
+      <string>hcircumflex</string>
+      <string>i</string>
+      <string>idotless</string>
+      <string>iacute</string>
+      <string>ibreve</string>
+      <string>icircumflex</string>
+      <string>idblgrave</string>
+      <string>idieresis</string>
+      <string>idotaccent</string>
+      <string>idotbelow</string>
+      <string>igrave</string>
+      <string>ihookabove</string>
+      <string>iinvertedbreve</string>
+      <string>imacron</string>
+      <string>iogonek</string>
+      <string>itilde</string>
+      <string>j</string>
+      <string>jdotless</string>
+      <string>jcircumflex</string>
+      <string>k</string>
+      <string>kcommaaccent</string>
+      <string>kgreenlandic</string>
+      <string>l</string>
+      <string>lacute</string>
+      <string>lcaron</string>
+      <string>lcommaaccent</string>
+      <string>ldot</string>
+      <string>lj</string>
+      <string>lslash</string>
+      <string>m</string>
+      <string>n</string>
+      <string>nacute</string>
+      <string>ncaron</string>
+      <string>ncommaaccent</string>
+      <string>eng</string>
+      <string>nj</string>
+      <string>ntilde</string>
+      <string>o</string>
+      <string>oacute</string>
+      <string>obreve</string>
+      <string>ocircumflex</string>
+      <string>ocircumflexacute</string>
+      <string>ocircumflexdotbelow</string>
+      <string>ocircumflexgrave</string>
+      <string>ocircumflexhookabove</string>
+      <string>ocircumflextilde</string>
+      <string>odblgrave</string>
+      <string>odieresis</string>
+      <string>odieresismacron</string>
+      <string>odotaccentmacron</string>
+      <string>odotbelow</string>
+      <string>ograve</string>
+      <string>ohookabove</string>
+      <string>ohorn</string>
+      <string>ohornacute</string>
+      <string>ohorndotbelow</string>
+      <string>ohorngrave</string>
+      <string>ohornhookabove</string>
+      <string>ohorntilde</string>
+      <string>ohungarumlaut</string>
+      <string>oinvertedbreve</string>
+      <string>omacron</string>
+      <string>oogonek</string>
+      <string>oslash</string>
+      <string>oslashacute</string>
+      <string>otilde</string>
+      <string>otildemacron</string>
+      <string>oe</string>
+      <string>p</string>
+      <string>thorn</string>
+      <string>q</string>
+      <string>r</string>
+      <string>racute</string>
+      <string>rcaron</string>
+      <string>rcommaaccent</string>
+      <string>rdblgrave</string>
+      <string>rinvertedbreve</string>
+      <string>s</string>
+      <string>sacute</string>
+      <string>scaron</string>
+      <string>scedilla</string>
+      <string>scircumflex</string>
+      <string>scommaaccent</string>
+      <string>germandbls</string>
+      <string>t</string>
+      <string>tbar</string>
+      <string>tcaron</string>
+      <string>tcedilla</string>
+      <string>tcommaaccent</string>
+      <string>u</string>
+      <string>uacute</string>
+      <string>ubreve</string>
+      <string>ucircumflex</string>
+      <string>udblgrave</string>
+      <string>udieresis</string>
+      <string>udotbelow</string>
+      <string>ugrave</string>
+      <string>uhookabove</string>
+      <string>uhorn</string>
+      <string>uhornacute</string>
+      <string>uhorndotbelow</string>
+      <string>uhorngrave</string>
+      <string>uhornhookabove</string>
+      <string>uhorntilde</string>
+      <string>uhungarumlaut</string>
+      <string>uinvertedbreve</string>
+      <string>umacron</string>
+      <string>uogonek</string>
+      <string>uring</string>
+      <string>utilde</string>
+      <string>v</string>
+      <string>w</string>
+      <string>wacute</string>
+      <string>wcircumflex</string>
+      <string>wdieresis</string>
+      <string>wgrave</string>
+      <string>x</string>
+      <string>y</string>
+      <string>yacute</string>
+      <string>ycircumflex</string>
+      <string>ydieresis</string>
+      <string>ydotbelow</string>
+      <string>ygrave</string>
+      <string>yhookabove</string>
+      <string>ymacron</string>
+      <string>ytilde</string>
+      <string>z</string>
+      <string>zacute</string>
+      <string>zcaron</string>
+      <string>zdotaccent</string>
+      <string>m.rvrn</string>
+      <string>w.rvrn</string>
+      <string>n.t</string>
+      <string>o.t</string>
+      <string>f_f</string>
+      <string>f_f_i</string>
+      <string>f_f_l</string>
+      <string>f_j</string>
+      <string>f_t</string>
+      <string>fi</string>
+      <string>fl</string>
+      <string>ordfeminine</string>
+      <string>ordmasculine</string>
+      <string>A-cy</string>
+      <string>Be-cy</string>
+      <string>Ve-cy</string>
+      <string>Ge-cy</string>
+      <string>Gje-cy</string>
+      <string>Gheupturn-cy</string>
+      <string>De-cy</string>
+      <string>Ie-cy</string>
+      <string>Io-cy</string>
+      <string>Zhe-cy</string>
+      <string>Ze-cy</string>
+      <string>Ii-cy</string>
+      <string>Iishort-cy</string>
+      <string>Ka-cy</string>
+      <string>Kje-cy</string>
+      <string>El-cy</string>
+      <string>Em-cy</string>
+      <string>En-cy</string>
+      <string>O-cy</string>
+      <string>Pe-cy</string>
+      <string>Er-cy</string>
+      <string>Es-cy</string>
+      <string>Te-cy</string>
+      <string>U-cy</string>
+      <string>Ushort-cy</string>
+      <string>Ef-cy</string>
+      <string>Ha-cy</string>
+      <string>Che-cy</string>
+      <string>Tse-cy</string>
+      <string>Sha-cy</string>
+      <string>Shcha-cy</string>
+      <string>Dzhe-cy</string>
+      <string>Softsign-cy</string>
+      <string>Hardsign-cy</string>
+      <string>Yeru-cy</string>
+      <string>Lje-cy</string>
+      <string>Nje-cy</string>
+      <string>Dze-cy</string>
+      <string>E-cy</string>
+      <string>Ereversed-cy</string>
+      <string>I-cy</string>
+      <string>Yi-cy</string>
+      <string>Je-cy</string>
+      <string>Tshe-cy</string>
+      <string>Iu-cy</string>
+      <string>Ia-cy</string>
+      <string>Dje-cy</string>
+      <string>Yat-cy</string>
+      <string>Fita-cy</string>
+      <string>Izhitsa-cy</string>
+      <string>Ghestroke-cy</string>
+      <string>Zhedescender-cy</string>
+      <string>Kadescender-cy</string>
+      <string>Endescender-cy</string>
+      <string>Ustrait-cy</string>
+      <string>Ustraitstroke-cy</string>
+      <string>Hadescender-cy</string>
+      <string>Chedescender-cy</string>
+      <string>Shha-cy</string>
+      <string>Palochka-cy</string>
+      <string>Schwa-cy</string>
+      <string>Imacron-cy</string>
+      <string>Obarred-cy</string>
+      <string>Umacron-cy</string>
+      <string>a-cy</string>
+      <string>be-cy</string>
+      <string>ve-cy</string>
+      <string>ge-cy</string>
+      <string>gje-cy</string>
+      <string>gheupturn-cy</string>
+      <string>de-cy</string>
+      <string>ie-cy</string>
+      <string>io-cy</string>
+      <string>zhe-cy</string>
+      <string>ze-cy</string>
+      <string>ii-cy</string>
+      <string>iishort-cy</string>
+      <string>ka-cy</string>
+      <string>kje-cy</string>
+      <string>el-cy</string>
+      <string>em-cy</string>
+      <string>en-cy</string>
+      <string>o-cy</string>
+      <string>pe-cy</string>
+      <string>er-cy</string>
+      <string>es-cy</string>
+      <string>te-cy</string>
+      <string>u-cy</string>
+      <string>ushort-cy</string>
+      <string>ef-cy</string>
+      <string>ha-cy</string>
+      <string>che-cy</string>
+      <string>tse-cy</string>
+      <string>sha-cy</string>
+      <string>shcha-cy</string>
+      <string>dzhe-cy</string>
+      <string>softsign-cy</string>
+      <string>hardsign-cy</string>
+      <string>yeru-cy</string>
+      <string>lje-cy</string>
+      <string>nje-cy</string>
+      <string>dze-cy</string>
+      <string>e-cy</string>
+      <string>ereversed-cy</string>
+      <string>i-cy</string>
+      <string>yi-cy</string>
+      <string>je-cy</string>
+      <string>tshe-cy</string>
+      <string>iu-cy</string>
+      <string>ia-cy</string>
+      <string>dje-cy</string>
+      <string>yat-cy</string>
+      <string>fita-cy</string>
+      <string>izhitsa-cy</string>
+      <string>ghestroke-cy</string>
+      <string>zhedescender-cy</string>
+      <string>kadescender-cy</string>
+      <string>endescender-cy</string>
+      <string>ustrait-cy</string>
+      <string>ustraitstroke-cy</string>
+      <string>hadescender-cy</string>
+      <string>chedescender-cy</string>
+      <string>shha-cy</string>
+      <string>palochka-cy</string>
+      <string>schwa-cy</string>
+      <string>imacron-cy</string>
+      <string>obarred-cy</string>
+      <string>umacron-cy</string>
+      <string>Alpha</string>
+      <string>Beta</string>
+      <string>Gamma</string>
+      <string>Delta</string>
+      <string>Epsilon</string>
+      <string>Zeta</string>
+      <string>Eta</string>
+      <string>Theta</string>
+      <string>Iota</string>
+      <string>Kappa</string>
+      <string>Lambda</string>
+      <string>Mu</string>
+      <string>Nu</string>
+      <string>Xi</string>
+      <string>Omicron</string>
+      <string>Pi</string>
+      <string>Rho</string>
+      <string>Sigma</string>
+      <string>Tau</string>
+      <string>Upsilon</string>
+      <string>Phi</string>
+      <string>Chi</string>
+      <string>Psi</string>
+      <string>Omega</string>
+      <string>Iotadieresis</string>
+      <string>Upsilondieresis</string>
+      <string>alpha</string>
+      <string>beta</string>
+      <string>gamma</string>
+      <string>delta</string>
+      <string>epsilon</string>
+      <string>zeta</string>
+      <string>eta</string>
+      <string>theta</string>
+      <string>iota</string>
+      <string>kappa</string>
+      <string>lambda</string>
+      <string>mu</string>
+      <string>nu</string>
+      <string>xi</string>
+      <string>omicron</string>
+      <string>pi</string>
+      <string>rho</string>
+      <string>sigmafinal</string>
+      <string>sigma</string>
+      <string>tau</string>
+      <string>upsilon</string>
+      <string>phi</string>
+      <string>chi</string>
+      <string>psi</string>
+      <string>omega</string>
+      <string>iotadieresis</string>
+      <string>upsilondieresis</string>
+      <string>zero</string>
+      <string>one</string>
+      <string>two</string>
+      <string>three</string>
+      <string>four</string>
+      <string>five</string>
+      <string>six</string>
+      <string>seven</string>
+      <string>eight</string>
+      <string>nine</string>
+      <string>zero.zero</string>
+      <string>zero.lf</string>
+      <string>one.lf</string>
+      <string>two.lf</string>
+      <string>three.lf</string>
+      <string>four.lf</string>
+      <string>five.lf</string>
+      <string>six.lf</string>
+      <string>seven.lf</string>
+      <string>eight.lf</string>
+      <string>nine.lf</string>
+      <string>zero.osf</string>
+      <string>one.osf</string>
+      <string>two.osf</string>
+      <string>three.osf</string>
+      <string>four.osf</string>
+      <string>five.osf</string>
+      <string>six.osf</string>
+      <string>seven.osf</string>
+      <string>eight.osf</string>
+      <string>nine.osf</string>
+      <string>zero.tf</string>
+      <string>one.tf</string>
+      <string>two.tf</string>
+      <string>three.tf</string>
+      <string>four.tf</string>
+      <string>five.tf</string>
+      <string>six.tf</string>
+      <string>seven.tf</string>
+      <string>eight.tf</string>
+      <string>nine.tf</string>
+      <string>zero.dnom</string>
+      <string>one.dnom</string>
+      <string>two.dnom</string>
+      <string>three.dnom</string>
+      <string>four.dnom</string>
+      <string>five.dnom</string>
+      <string>six.dnom</string>
+      <string>seven.dnom</string>
+      <string>eight.dnom</string>
+      <string>nine.dnom</string>
+      <string>zero.numr</string>
+      <string>one.numr</string>
+      <string>two.numr</string>
+      <string>three.numr</string>
+      <string>four.numr</string>
+      <string>five.numr</string>
+      <string>six.numr</string>
+      <string>seven.numr</string>
+      <string>eight.numr</string>
+      <string>nine.numr</string>
+      <string>onesuperior</string>
+      <string>twosuperior</string>
+      <string>threesuperior</string>
+      <string>foursuperior</string>
+      <string>fraction</string>
+      <string>fractionslash</string>
+      <string>onehalf</string>
+      <string>onequarter</string>
+      <string>threequarters</string>
+      <string>oneeighth</string>
+      <string>threeeighths</string>
+      <string>fiveeighths</string>
+      <string>seveneighths</string>
+      <string>period</string>
+      <string>comma</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>ellipsis</string>
+      <string>exclam</string>
+      <string>exclamdown</string>
+      <string>question</string>
+      <string>questiondown</string>
+      <string>periodcentered</string>
+      <string>bullet</string>
+      <string>asterisk</string>
+      <string>numbersign</string>
+      <string>slash</string>
+      <string>backslash</string>
+      <string>periodcentered.loclCAT.case</string>
+      <string>slash.fig</string>
+      <string>periodcentered.loclCAT</string>
+      <string>parenleft</string>
+      <string>parenright</string>
+      <string>braceleft</string>
+      <string>braceright</string>
+      <string>bracketleft</string>
+      <string>bracketright</string>
+      <string>hyphen</string>
+      <string>softhyphen</string>
+      <string>endash</string>
+      <string>emdash</string>
+      <string>hyphentwo</string>
+      <string>underscore</string>
+      <string>quotesinglbase</string>
+      <string>quotedblbase</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
+      <string>quoteleft</string>
+      <string>quoteright</string>
+      <string>guillemetleft</string>
+      <string>guillemetright</string>
+      <string>guilsinglleft</string>
+      <string>guilsinglright</string>
+      <string>quotedbl</string>
+      <string>quotesingle</string>
+      <string>leftanglebracket-math</string>
+      <string>rightanglebracket-math</string>
       <string>space</string>
+      <string>nbspace</string>
+      <string>CR</string>
+      <string>.notdef</string>
+      <string>Euro</string>
+      <string>cedi</string>
+      <string>cent</string>
+      <string>colonsign</string>
+      <string>currency</string>
+      <string>dollar</string>
+      <string>dong</string>
+      <string>euro</string>
+      <string>florin</string>
+      <string>franc</string>
+      <string>guarani</string>
+      <string>kip</string>
+      <string>lira</string>
+      <string>liraTurkish</string>
+      <string>manat</string>
+      <string>naira</string>
+      <string>peseta</string>
+      <string>peso</string>
+      <string>ruble</string>
+      <string>rupeeIndian</string>
+      <string>sterling</string>
+      <string>won</string>
+      <string>yen</string>
+      <string>bulletoperator</string>
+      <string>plus</string>
+      <string>minus</string>
+      <string>multiply</string>
+      <string>divide</string>
+      <string>equal</string>
+      <string>notequal</string>
+      <string>greater</string>
+      <string>less</string>
+      <string>greaterequal</string>
+      <string>lessequal</string>
+      <string>plusminus</string>
+      <string>approxequal</string>
+      <string>asciitilde</string>
+      <string>logicalnot</string>
+      <string>asciicircum</string>
+      <string>emptyset</string>
+      <string>infinity</string>
+      <string>integral</string>
+      <string>product</string>
+      <string>summation</string>
+      <string>radical</string>
+      <string>micro</string>
+      <string>partialdiff</string>
+      <string>percent</string>
+      <string>perthousand</string>
+      <string>commercialMinusSign</string>
+      <string>upArrow</string>
+      <string>northEastArrow</string>
+      <string>rightArrow</string>
+      <string>southEastArrow</string>
+      <string>downArrow</string>
+      <string>southWestArrow</string>
+      <string>leftArrow</string>
+      <string>northWestArrow</string>
+      <string>leftRightArrow</string>
+      <string>upDownArrow</string>
+      <string>lozenge</string>
+      <string>at</string>
+      <string>ampersand</string>
+      <string>paragraph</string>
+      <string>section</string>
+      <string>copyright</string>
+      <string>registered</string>
+      <string>trademark</string>
+      <string>degree</string>
+      <string>minute</string>
+      <string>second</string>
+      <string>bar</string>
+      <string>brokenbar</string>
+      <string>dagger</string>
+      <string>daggerdbl</string>
+      <string>numero</string>
+      <string>apple</string>
+      <string>currency_vert_stroke</string>
+      <string>currency_horz_stroke.case</string>
+      <string>currency_horz_stroke_long.case</string>
+      <string>currency_horz_stroke_xlong.case</string>
+      <string>currency_vert_stroke.case</string>
+      <string>apostrophemod</string>
+      <string>doubleprimemod</string>
+      <string>firsttonechinese</string>
+      <string>primemod</string>
+      <string>dieresiscomb</string>
+      <string>dotaccentcomb</string>
+      <string>gravecomb</string>
+      <string>acutecomb</string>
+      <string>hungarumlautcomb</string>
+      <string>caroncomb.alt</string>
+      <string>circumflexcomb</string>
+      <string>caroncomb</string>
+      <string>brevecomb</string>
+      <string>ringcomb</string>
+      <string>tildecomb</string>
+      <string>macroncomb</string>
+      <string>hookabovecomb</string>
+      <string>dblgravecomb</string>
+      <string>breveinvertedcomb</string>
+      <string>commaturnedabovecomb</string>
+      <string>horncomb</string>
+      <string>dotbelowcomb</string>
+      <string>dieresisbelowcomb</string>
+      <string>commaaccentcomb</string>
+      <string>cedillacomb</string>
+      <string>ogonekcomb</string>
+      <string>brevebelowcomb</string>
+      <string>macronbelowcomb</string>
+      <string>strokeshortcomb</string>
+      <string>strokelongcomb</string>
+      <string>slashshortcomb</string>
+      <string>slashlongcomb</string>
+      <string>dotaccent</string>
+      <string>dieresis</string>
+      <string>grave</string>
+      <string>acute</string>
+      <string>hungarumlaut</string>
+      <string>circumflex</string>
+      <string>caron</string>
+      <string>breve</string>
+      <string>ring</string>
+      <string>tilde</string>
+      <string>macron</string>
+      <string>cedilla</string>
+      <string>ogonek</string>
+      <string>caron.alt</string>
+      <string>dieresiscomb.case</string>
+      <string>dotaccentcomb.case</string>
+      <string>gravecomb.case</string>
+      <string>acutecomb.case</string>
+      <string>hungarumlautcomb.case</string>
+      <string>caroncomb.alt.case</string>
+      <string>circumflexcomb.case</string>
+      <string>caroncomb.case</string>
+      <string>brevecomb.case</string>
+      <string>ringcomb.case</string>
+      <string>tildecomb.case</string>
+      <string>macroncomb.case</string>
+      <string>hookabovecomb.case</string>
+      <string>dblgravecomb.case</string>
+      <string>breveinvertedcomb.case</string>
+      <string>commaturnedabovecomb.case</string>
+      <string>horncomb.case</string>
+      <string>dotbelowcomb.case</string>
+      <string>dieresisbelowcomb.case</string>
+      <string>commaaccentcomb.case</string>
+      <string>cedillacomb.case</string>
+      <string>ogonekcomb.case</string>
+      <string>brevebelowcomb.case</string>
+      <string>macronbelowcomb.case</string>
+      <string>strokelongcomb.case</string>
+      <string>slashshortcomb.case</string>
+      <string>slashlongcomb.case</string>
+      <string>brevecomb-cy</string>
+      <string>brevecomb_acutecomb</string>
+      <string>brevecomb_gravecomb</string>
+      <string>brevecomb_hookabovecomb</string>
+      <string>brevecomb_tildecomb</string>
+      <string>circumflexcomb_acutecomb</string>
+      <string>circumflexcomb_gravecomb</string>
+      <string>circumflexcomb_hookabovecomb</string>
+      <string>circumflexcomb_tildecomb</string>
+      <string>circumflexcomb_acutecomb.case</string>
+      <string>circumflexcomb_gravecomb.case</string>
+      <string>circumflexcomb_tildecomb.case</string>
+      <string>uni0000</string>
+      <string>NULL</string>
+      <string>uniE0FF</string>
+      <string>uniEFFD</string>
+      <string>_cyrillicdescender01.case</string>
+      <string>_cyrillicdescender02.case</string>
+      <string>__periodcentered</string>
+      <string>_tstrokeshortcomb</string>
+      <string>nonmarkingreturn</string>
+      <string>_cyrillic_bar.case</string>
+      <string>_cyrillicdescender01</string>
+      <string>_cyrillicdescender02</string>
+      <string>cyrillic_bar_long</string>
+      <string>_cyrillic_bar</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
+      <key>A-cy</key>
+      <string>uni0410</string>
       <key>Abreveacute</key>
       <string>uni1EAE</string>
       <key>Abrevedotbelow</key>
@@ -234,10 +1134,28 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni1EA2</string>
       <key>Ainvertedbreve</key>
       <string>uni0202</string>
+      <key>Be-cy</key>
+      <string>uni0411</string>
+      <key>Che-cy</key>
+      <string>uni0427</string>
+      <key>Chedescender-cy</key>
+      <string>uni04B6</string>
       <key>DZcaron</key>
       <string>uni01C4</string>
+      <key>De-cy</key>
+      <string>uni0414</string>
+      <key>Delta</key>
+      <string>uni0394</string>
+      <key>Dje-cy</key>
+      <string>uni0402</string>
       <key>Dzcaron</key>
       <string>uni01C5</string>
+      <key>Dze-cy</key>
+      <string>uni0405</string>
+      <key>Dzhe-cy</key>
+      <string>uni040F</string>
+      <key>E-cy</key>
+      <string>uni0404</string>
       <key>Ecircumflexacute</key>
       <string>uni1EBE</string>
       <key>Ecircumflexdotbelow</key>
@@ -252,38 +1170,104 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni0204</string>
       <key>Edotbelow</key>
       <string>uni1EB8</string>
+      <key>Ef-cy</key>
+      <string>uni0424</string>
       <key>Ehookabove</key>
       <string>uni1EBA</string>
       <key>Einvertedbreve</key>
       <string>uni0206</string>
+      <key>El-cy</key>
+      <string>uni041B</string>
+      <key>Em-cy</key>
+      <string>uni041C</string>
+      <key>En-cy</key>
+      <string>uni041D</string>
+      <key>Endescender-cy</key>
+      <string>uni04A2</string>
+      <key>Er-cy</key>
+      <string>uni0420</string>
+      <key>Ereversed-cy</key>
+      <string>uni042D</string>
+      <key>Es-cy</key>
+      <string>uni0421</string>
       <key>Etilde</key>
       <string>uni1EBC</string>
+      <key>Fita-cy</key>
+      <string>uni0472</string>
       <key>Gcommaaccent</key>
       <string>uni0122</string>
+      <key>Ge-cy</key>
+      <string>uni0413</string>
       <key>Germandbls</key>
       <string>uni1E9E</string>
+      <key>Ghestroke-cy</key>
+      <string>uni0492</string>
+      <key>Gheupturn-cy</key>
+      <string>uni0490</string>
+      <key>Gje-cy</key>
+      <string>uni0403</string>
+      <key>Ha-cy</key>
+      <string>uni0425</string>
+      <key>Hadescender-cy</key>
+      <string>uni04B2</string>
+      <key>Hardsign-cy</key>
+      <string>uni042A</string>
+      <key>I-cy</key>
+      <string>uni0406</string>
+      <key>Ia-cy</key>
+      <string>uni042F</string>
       <key>Idblgrave</key>
       <string>uni0208</string>
       <key>Idotbelow</key>
       <string>uni1ECA</string>
+      <key>Ie-cy</key>
+      <string>uni0415</string>
       <key>Ihookabove</key>
       <string>uni1EC8</string>
+      <key>Ii-cy</key>
+      <string>uni0418</string>
       <key>Iinvertedbreve</key>
       <string>uni020A</string>
+      <key>Iishort-cy</key>
+      <string>uni0419</string>
+      <key>Imacron-cy</key>
+      <string>uni04E2</string>
+      <key>Io-cy</key>
+      <string>uni0401</string>
+      <key>Iu-cy</key>
+      <string>uni042E</string>
+      <key>Izhitsa-cy</key>
+      <string>uni0474</string>
+      <key>Je-cy</key>
+      <string>uni0408</string>
+      <key>Ka-cy</key>
+      <string>uni041A</string>
+      <key>Kadescender-cy</key>
+      <string>uni049A</string>
       <key>Kcommaaccent</key>
       <string>uni0136</string>
+      <key>Kje-cy</key>
+      <string>uni040C</string>
       <key>LJ</key>
       <string>uni01C7</string>
       <key>Lcommaaccent</key>
       <string>uni013B</string>
       <key>Lj</key>
       <string>uni01C8</string>
+      <key>Lje-cy</key>
+      <string>uni0409</string>
       <key>NJ</key>
       <string>uni01CA</string>
       <key>Ncommaaccent</key>
       <string>uni0145</string>
       <key>Nj</key>
       <string>uni01CB</string>
+      <key>Nje-cy</key>
+      <string>uni040A</string>
+      <key>O-cy</key>
+      <string>uni041E</string>
+      <key>Obarred-cy</key>
+      <string>uni04E8</string>
       <key>Ocircumflexacute</key>
       <string>uni1ED0</string>
       <key>Ocircumflexdotbelow</key>
@@ -316,10 +1300,16 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni1EE0</string>
       <key>Oinvertedbreve</key>
       <string>uni020E</string>
+      <key>Omega</key>
+      <string>uni03A9</string>
       <key>Oogonek</key>
       <string>uni01EA</string>
       <key>Otildemacron</key>
       <string>uni022C</string>
+      <key>Palochka-cy</key>
+      <string>uni04C0</string>
+      <key>Pe-cy</key>
+      <string>uni041F</string>
       <key>Rcommaaccent</key>
       <string>uni0156</string>
       <key>Rdblgrave</key>
@@ -328,12 +1318,30 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni0212</string>
       <key>Schwa</key>
       <string>uni018F</string>
+      <key>Schwa-cy</key>
+      <string>uni04D8</string>
       <key>Scommaaccent</key>
       <string>uni0218</string>
+      <key>Sha-cy</key>
+      <string>uni0428</string>
+      <key>Shcha-cy</key>
+      <string>uni0429</string>
+      <key>Shha-cy</key>
+      <string>uni04BA</string>
+      <key>Softsign-cy</key>
+      <string>uni042C</string>
       <key>Tcedilla</key>
       <string>uni0162</string>
       <key>Tcommaaccent</key>
       <string>uni021A</string>
+      <key>Te-cy</key>
+      <string>uni0422</string>
+      <key>Tse-cy</key>
+      <string>uni0426</string>
+      <key>Tshe-cy</key>
+      <string>uni040B</string>
+      <key>U-cy</key>
+      <string>uni0423</string>
       <key>Udblgrave</key>
       <string>uni0214</string>
       <key>Udotbelow</key>
@@ -352,14 +1360,38 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni1EEE</string>
       <key>Uinvertedbreve</key>
       <string>uni0216</string>
+      <key>Umacron-cy</key>
+      <string>uni04EE</string>
+      <key>Ushort-cy</key>
+      <string>uni040E</string>
+      <key>Ustrait-cy</key>
+      <string>Ustraitcy</string>
+      <key>Ustraitstroke-cy</key>
+      <string>Ustraitstrokecy</string>
+      <key>Ve-cy</key>
+      <string>uni0412</string>
+      <key>Yat-cy</key>
+      <string>uni0462</string>
       <key>Ydotbelow</key>
       <string>uni1EF4</string>
+      <key>Yeru-cy</key>
+      <string>uni042B</string>
       <key>Yhookabove</key>
       <string>uni1EF6</string>
+      <key>Yi-cy</key>
+      <string>uni0407</string>
       <key>Ymacron</key>
       <string>uni0232</string>
       <key>Ytilde</key>
       <string>uni1EF8</string>
+      <key>Ze-cy</key>
+      <string>uni0417</string>
+      <key>Zhe-cy</key>
+      <string>uni0416</string>
+      <key>Zhedescender-cy</key>
+      <string>uni0496</string>
+      <key>a-cy</key>
+      <string>uni0430</string>
       <key>abreveacute</key>
       <string>uni1EAF</string>
       <key>abrevedotbelow</key>
@@ -392,12 +1424,16 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni02BC</string>
       <key>apple</key>
       <string>uniF8FF</string>
+      <key>be-cy</key>
+      <string>uni0431</string>
       <key>brevebelowcomb</key>
       <string>uni032E</string>
       <key>brevebelowcomb.case</key>
       <string>uni032E.case</string>
       <key>brevecomb</key>
       <string>uni0306</string>
+      <key>brevecomb-cy</key>
+      <string>brevecombcy</string>
       <key>brevecomb.case</key>
       <string>uni0306.case</string>
       <key>brevecomb_acutecomb</key>
@@ -428,6 +1464,10 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni0327</string>
       <key>cedillacomb.case</key>
       <string>uni0327.case</string>
+      <key>che-cy</key>
+      <string>uni0447</string>
+      <key>chedescender-cy</key>
+      <string>uni04B7</string>
       <key>circumflexcomb</key>
       <string>uni0302</string>
       <key>circumflexcomb.case</key>
@@ -462,6 +1502,8 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni030F</string>
       <key>dblgravecomb.case</key>
       <string>uni030F.case</string>
+      <key>de-cy</key>
+      <string>uni0434</string>
       <key>dieresisbelowcomb</key>
       <string>uni0324</string>
       <key>dieresisbelowcomb.case</key>
@@ -470,6 +1512,8 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni0308</string>
       <key>dieresiscomb.case</key>
       <string>uni0308.case</string>
+      <key>dje-cy</key>
+      <string>uni0452</string>
       <key>dotaccentcomb</key>
       <string>uni0307</string>
       <key>dotaccentcomb.case</key>
@@ -480,6 +1524,12 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>arrowdown</string>
       <key>dzcaron</key>
       <string>uni01C6</string>
+      <key>dze-cy</key>
+      <string>uni0455</string>
+      <key>dzhe-cy</key>
+      <string>uni045F</string>
+      <key>e-cy</key>
+      <string>uni0454</string>
       <key>ecircumflexacute</key>
       <string>uni1EBF</string>
       <key>ecircumflexdotbelow</key>
@@ -494,26 +1544,58 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni0205</string>
       <key>edotbelow</key>
       <string>uni1EB9</string>
+      <key>ef-cy</key>
+      <string>uni0444</string>
       <key>ehookabove</key>
       <string>uni1EBB</string>
       <key>einvertedbreve</key>
       <string>uni0207</string>
+      <key>el-cy</key>
+      <string>uni043B</string>
+      <key>em-cy</key>
+      <string>uni043C</string>
+      <key>en-cy</key>
+      <string>uni043D</string>
+      <key>endescender-cy</key>
+      <string>uni04A3</string>
+      <key>er-cy</key>
+      <string>uni0440</string>
+      <key>ereversed-cy</key>
+      <string>uni044D</string>
+      <key>es-cy</key>
+      <string>uni0441</string>
       <key>etilde</key>
       <string>uni1EBD</string>
       <key>euro</key>
       <string>Euro</string>
       <key>firsttonechinese</key>
       <string>uni02C9</string>
+      <key>fita-cy</key>
+      <string>uni0473</string>
       <key>foursuperior</key>
       <string>uni2074</string>
       <key>gcommaaccent</key>
       <string>uni0123</string>
+      <key>ge-cy</key>
+      <string>uni0433</string>
+      <key>ghestroke-cy</key>
+      <string>uni0493</string>
+      <key>gheupturn-cy</key>
+      <string>uni0491</string>
+      <key>gje-cy</key>
+      <string>uni0453</string>
       <key>guarani</key>
       <string>uni20B2</string>
       <key>guillemetleft</key>
       <string>guillemotleft</string>
       <key>guillemetright</key>
       <string>guillemotright</string>
+      <key>ha-cy</key>
+      <string>uni0445</string>
+      <key>hadescender-cy</key>
+      <string>uni04B3</string>
+      <key>hardsign-cy</key>
+      <string>uni044A</string>
       <key>horncomb</key>
       <string>uni031B</string>
       <key>horncomb.case</key>
@@ -524,6 +1606,10 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni030B.case</string>
       <key>hyphentwo</key>
       <string>uni2010</string>
+      <key>i-cy</key>
+      <string>uni0456</string>
+      <key>ia-cy</key>
+      <string>uni044F</string>
       <key>idblgrave</key>
       <string>uni0209</string>
       <key>idotaccent</key>
@@ -532,16 +1618,38 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni1ECB</string>
       <key>idotless</key>
       <string>dotlessi</string>
+      <key>ie-cy</key>
+      <string>uni0435</string>
       <key>ihookabove</key>
       <string>uni1EC9</string>
+      <key>ii-cy</key>
+      <string>uni0438</string>
       <key>iinvertedbreve</key>
       <string>uni020B</string>
+      <key>iishort-cy</key>
+      <string>uni0439</string>
+      <key>imacron-cy</key>
+      <string>uni04E3</string>
+      <key>io-cy</key>
+      <string>uni0451</string>
+      <key>iu-cy</key>
+      <string>uni044E</string>
+      <key>izhitsa-cy</key>
+      <string>uni0475</string>
       <key>jdotless</key>
       <string>uni0237</string>
+      <key>je-cy</key>
+      <string>uni0458</string>
+      <key>ka-cy</key>
+      <string>uni043A</string>
+      <key>kadescender-cy</key>
+      <string>uni049B</string>
       <key>kcommaaccent</key>
       <string>uni0137</string>
       <key>kip</key>
       <string>uni20AD</string>
+      <key>kje-cy</key>
+      <string>uni045C</string>
       <key>lcommaaccent</key>
       <string>uni013C</string>
       <key>leftArrow</key>
@@ -554,6 +1662,8 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni20BA</string>
       <key>lj</key>
       <string>uni01C9</string>
+      <key>lje-cy</key>
+      <string>uni0459</string>
       <key>macronbelowcomb</key>
       <string>uni0331</string>
       <key>macronbelowcomb.case</key>
@@ -566,18 +1676,28 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni20BC</string>
       <key>micro</key>
       <string>uni00B5</string>
+      <key>mu</key>
+      <string>uni03BC</string>
       <key>naira</key>
       <string>uni20A6</string>
+      <key>nbspace</key>
+      <string>uni00A0</string>
       <key>ncommaaccent</key>
       <string>uni0146</string>
       <key>nj</key>
       <string>uni01CC</string>
+      <key>nje-cy</key>
+      <string>uni045A</string>
       <key>northEastArrow</key>
       <string>uni2197</string>
       <key>northWestArrow</key>
       <string>uni2196</string>
       <key>numero</key>
       <string>uni2116</string>
+      <key>o-cy</key>
+      <string>uni043E</string>
+      <key>obarred-cy</key>
+      <string>uni04E9</string>
       <key>ocircumflexacute</key>
       <string>uni1ED1</string>
       <key>ocircumflexdotbelow</key>
@@ -620,6 +1740,10 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni01EB</string>
       <key>otildemacron</key>
       <string>uni022D</string>
+      <key>palochka-cy</key>
+      <string>uni04CF</string>
+      <key>pe-cy</key>
+      <string>uni043F</string>
       <key>peso</key>
       <string>uni20B1</string>
       <key>primemod</key>
@@ -644,8 +1768,18 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni20B9</string>
       <key>schwa</key>
       <string>uni0259</string>
+      <key>schwa-cy</key>
+      <string>uni04D9</string>
       <key>scommaaccent</key>
       <string>uni0219</string>
+      <key>sha-cy</key>
+      <string>uni0448</string>
+      <key>shcha-cy</key>
+      <string>uni0449</string>
+      <key>shha-cy</key>
+      <string>uni04BB</string>
+      <key>sigmafinal</key>
+      <string>uni03C2</string>
       <key>slashlongcomb</key>
       <string>uni0338</string>
       <key>slashlongcomb.case</key>
@@ -656,6 +1790,8 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni0337.case</string>
       <key>softhyphen</key>
       <string>uni00AD</string>
+      <key>softsign-cy</key>
+      <string>uni044C</string>
       <key>southEastArrow</key>
       <string>uni2198</string>
       <key>southWestArrow</key>
@@ -670,10 +1806,18 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni0163</string>
       <key>tcommaaccent</key>
       <string>uni021B</string>
+      <key>te-cy</key>
+      <string>uni0442</string>
       <key>threesuperior</key>
       <string>uni00B3</string>
+      <key>tse-cy</key>
+      <string>uni0446</string>
+      <key>tshe-cy</key>
+      <string>uni045B</string>
       <key>twosuperior</key>
       <string>uni00B2</string>
+      <key>u-cy</key>
+      <string>uni0443</string>
       <key>udblgrave</key>
       <string>uni0215</string>
       <key>udotbelow</key>
@@ -692,39 +1836,42 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni1EEF</string>
       <key>uinvertedbreve</key>
       <string>uni0217</string>
+      <key>umacron-cy</key>
+      <string>uni04EF</string>
       <key>upArrow</key>
       <string>arrowup</string>
       <key>upDownArrow</key>
       <string>arrowupdn</string>
+      <key>ushort-cy</key>
+      <string>uni045E</string>
+      <key>ustrait-cy</key>
+      <string>ustraitcy</string>
+      <key>ustraitstroke-cy</key>
+      <string>ustraitstrokecy</string>
+      <key>ve-cy</key>
+      <string>uni0432</string>
       <key>won</key>
       <string>uni20A9</string>
+      <key>yat-cy</key>
+      <string>uni0463</string>
       <key>ydotbelow</key>
       <string>uni1EF5</string>
+      <key>yeru-cy</key>
+      <string>uni044B</string>
       <key>yhookabove</key>
       <string>uni1EF7</string>
+      <key>yi-cy</key>
+      <string>uni0457</string>
       <key>ymacron</key>
       <string>uni0233</string>
       <key>ytilde</key>
       <string>uni1EF9</string>
+      <key>ze-cy</key>
+      <string>uni0437</string>
+      <key>zhe-cy</key>
+      <string>uni0436</string>
+      <key>zhedescender-cy</key>
+      <string>uni0497</string>
     </dict>
-    <key>public.skipExportGlyphs</key>
-    <array>
-      <string>H.t</string>
-      <string>O.t</string>
-      <string>apple</string>
-      <string>commercialMinusSign</string>
-      <string>downArrow</string>
-      <string>leftArrow</string>
-      <string>leftRightArrow</string>
-      <string>n.t</string>
-      <string>northEastArrow</string>
-      <string>northWestArrow</string>
-      <string>o.t</string>
-      <string>rightArrow</string>
-      <string>southEastArrow</string>
-      <string>southWestArrow</string>
-      <string>upArrow</string>
-      <string>upDownArrow</string>
-    </array>
   </dict>
 </plist>
