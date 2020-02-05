@@ -96,14 +96,6 @@
               <string>winDescent</string>
               <integer>600</integer>
             </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>ExtraLight Text</string>
-            </array>
           </array>
         </dict>
       </lib>
@@ -131,14 +123,6 @@
               <string>winDescent</string>
               <integer>600</integer>
             </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>Light Text</string>
-            </array>
           </array>
         </dict>
       </lib>
@@ -161,14 +145,6 @@
             <array>
               <string>winDescent</string>
               <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>Regular Text</string>
             </array>
           </array>
         </dict>
@@ -193,14 +169,6 @@
               <string>winDescent</string>
               <integer>600</integer>
             </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>Medium Text</string>
-            </array>
           </array>
         </dict>
       </lib>
@@ -224,14 +192,6 @@
               <string>winDescent</string>
               <integer>600</integer>
             </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>SemiBold Text</string>
-            </array>
           </array>
         </dict>
       </lib>
@@ -254,14 +214,6 @@
             <array>
               <string>winDescent</string>
               <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>Bold Text</string>
             </array>
           </array>
         </dict>
@@ -289,14 +241,6 @@
             <array>
               <string>winDescent</string>
               <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>ExtraBold Text</string>
             </array>
           </array>
         </dict>

@@ -10,7 +10,11 @@
       <map input="700" output="648"/>
       <map input="800" output="800"/>
     </axis>
-    <axis tag="opsz" name="Optical size" minimum="10" maximum="72" default="24"/>
+    <axis tag="opsz" name="Optical size" minimum="10" maximum="72" default="30">
+      <map input="10" output="10"/>
+      <map input="24" output="30"/>
+      <map input="72" output="72"/>
+    </axis>
   </axes>
   <sources>
     <source filename="../master_ufo/Russolo-24ptExtraLight.ufo" name="Russolo 24pt ExtraLight" familyname="Russolo" stylename="24pt ExtraLight">
@@ -25,7 +29,7 @@
     </source>
     <source filename="../master_ufo/Russolo-24ptMedium.ufo" name="Russolo 24pt Medium" familyname="Russolo" stylename="24pt Medium">
       <location>
-        <dimension name="Weight" xvalue="458"/>
+        <dimension name="Weight" xvalue="500"/>
         <dimension name="Optical size" xvalue="30"/>
       </location>
     </source>
@@ -61,7 +65,7 @@
     </source>
     <source filename="../master_ufo/Russolo-10ptMedium.ufo" name="Russolo 10pt Medium" familyname="Russolo" stylename="10pt Medium">
       <location>
-        <dimension name="Weight" xvalue="458"/>
+        <dimension name="Weight" xvalue="500"/>
         <dimension name="Optical size" xvalue="10"/>
       </location>
     </source>
@@ -351,7 +355,7 @@
     <instance name="Russolo 24pt ExtraLight" familyname="Russolo" stylename="24pt ExtraLight" filename="../instance_ufo/Russolo-24ptExtraLight.ufo" stylemapfamilyname="Russolo 24pt ExtraLight" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="200"/>
-        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Optical size" xvalue="30"/>
       </location>
       <kerning/>
       <info/>
@@ -378,7 +382,7 @@
     <instance name="Russolo 24pt Light" familyname="Russolo" stylename="24pt Light" filename="../instance_ufo/Russolo-24ptLight.ufo" stylemapfamilyname="Russolo 24pt Light" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="295"/>
-        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Optical size" xvalue="30"/>
       </location>
       <kerning/>
       <info/>
@@ -422,7 +426,7 @@
     <instance name="Russolo 24pt Regular" familyname="Russolo" stylename="24pt Regular" filename="../instance_ufo/Russolo-24ptRegular.ufo" stylemapfamilyname="Russolo 24pt" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="379"/>
-        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Optical size" xvalue="30"/>
       </location>
       <kerning/>
       <info/>
@@ -465,8 +469,8 @@
     </instance>
     <instance name="Russolo 24pt Medium" familyname="Russolo" stylename="24pt Medium" filename="../instance_ufo/Russolo-24ptMedium.ufo" stylemapfamilyname="Russolo ExtraLight" stylemapstylename="bold">
       <location>
-        <dimension name="Weight" xvalue="458"/>
-        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Optical size" xvalue="30"/>
       </location>
       <kerning/>
       <info/>
@@ -506,7 +510,7 @@
     <instance name="Russolo 24pt SemiBold" familyname="Russolo" stylename="24pt SemiBold" filename="../instance_ufo/Russolo-24ptSemiBold.ufo" stylemapfamilyname="Russolo Light" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="542"/>
-        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Optical size" xvalue="30"/>
       </location>
       <kerning/>
       <info/>
@@ -546,7 +550,7 @@
     <instance name="Russolo 24pt Bold" familyname="Russolo" stylename="24pt Bold" filename="../instance_ufo/Russolo-24ptBold.ufo" stylemapfamilyname="Russolo 24pt" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="648"/>
-        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Optical size" xvalue="30"/>
       </location>
       <kerning/>
       <info/>
@@ -586,7 +590,7 @@
     <instance name="Russolo 24pt ExtraBold" familyname="Russolo" stylename="24pt ExtraBold" filename="../instance_ufo/Russolo-24ptExtraBold.ufo" stylemapfamilyname="Russolo 24pt ExtraBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="800"/>
-        <dimension name="Optical size" xvalue="24"/>
+        <dimension name="Optical size" xvalue="30"/>
       </location>
       <kerning/>
       <info/>
