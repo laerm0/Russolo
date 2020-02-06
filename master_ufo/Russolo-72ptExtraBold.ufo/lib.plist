@@ -91,7 +91,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>1287</string>
+    <string>1289</string>
     <key>com.schriftgestaltung.customName</key>
     <string>72pt Extra</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axes</key>
@@ -748,30 +748,21 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>Alpha</string>
       <string>Beta</string>
       <string>Gamma</string>
-      <string>Delta</string>
       <string>Epsilon</string>
       <string>Zeta</string>
       <string>Eta</string>
       <string>Theta</string>
       <string>Iota</string>
       <string>Kappa</string>
-      <string>Lambda</string>
       <string>Mu</string>
       <string>Nu</string>
-      <string>Xi</string>
       <string>Omicron</string>
-      <string>Pi</string>
       <string>Rho</string>
-      <string>Sigma</string>
       <string>Tau</string>
-      <string>Upsilon</string>
       <string>Phi</string>
       <string>Chi</string>
-      <string>Psi</string>
-      <string>Omega</string>
       <string>Iotadieresis</string>
       <string>Upsilondieresis</string>
-      <string>alpha</string>
       <string>beta</string>
       <string>gamma</string>
       <string>delta</string>
@@ -782,11 +773,9 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>iota</string>
       <string>kappa</string>
       <string>lambda</string>
-      <string>mu</string>
       <string>nu</string>
       <string>xi</string>
       <string>omicron</string>
-      <string>pi</string>
       <string>rho</string>
       <string>sigmafinal</string>
       <string>sigma</string>
@@ -1144,8 +1133,6 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni01C4</string>
       <key>De-cy</key>
       <string>uni0414</string>
-      <key>Delta</key>
-      <string>uni0394</string>
       <key>Dje-cy</key>
       <string>uni0402</string>
       <key>Dzcaron</key>
@@ -1300,8 +1287,6 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni1EE0</string>
       <key>Oinvertedbreve</key>
       <string>uni020E</string>
-      <key>Omega</key>
-      <string>uni03A9</string>
       <key>Oogonek</key>
       <string>uni01EA</string>
       <key>Otildemacron</key>
@@ -1676,8 +1661,6 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>uni20BC</string>
       <key>micro</key>
       <string>uni00B5</string>
-      <key>mu</key>
-      <string>uni03BC</string>
       <key>naira</key>
       <string>uni20A6</string>
       <key>nbspace</key>

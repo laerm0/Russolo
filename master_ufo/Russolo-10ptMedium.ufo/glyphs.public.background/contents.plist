@@ -8,8 +8,6 @@
     <string>C_hedescender-cy.glif</string>
     <key>De-cy</key>
     <string>D_e-cy.glif</string>
-    <key>Delta</key>
-    <string>D_elta.glif</string>
     <key>Dzhe-cy</key>
     <string>D_zhe-cy.glif</string>
     <key>E-cy</key>
@@ -52,44 +50,30 @@
     <string>K_adescender-cy.glif</string>
     <key>Kje-cy</key>
     <string>K_je-cy.glif</string>
-    <key>Lambda</key>
-    <string>L_ambda.glif</string>
     <key>Lje-cy</key>
     <string>L_je-cy.glif</string>
     <key>Nje-cy</key>
     <string>N_je-cy.glif</string>
-    <key>Omega</key>
-    <string>O_mega.glif</string>
     <key>Pe-cy</key>
     <string>P_e-cy.glif</string>
     <key>Phi</key>
     <string>P_hi.glif</string>
-    <key>Pi</key>
-    <string>P_i.glif</string>
-    <key>Psi</key>
-    <string>P_si.glif</string>
     <key>Schwa-cy</key>
     <string>S_chwa-cy.glif</string>
     <key>Shcha-cy</key>
     <string>S_hcha-cy.glif</string>
     <key>Shha-cy</key>
     <string>S_hha-cy.glif</string>
-    <key>Sigma</key>
-    <string>S_igma.glif</string>
     <key>Softsign-cy</key>
     <string>S_oftsign-cy.glif</string>
     <key>U-cy</key>
     <string>U_-cy.glif</string>
     <key>Umacron-cy</key>
     <string>U_macron-cy.glif</string>
-    <key>Upsilon</key>
-    <string>U_psilon.glif</string>
     <key>Ushort-cy</key>
     <string>U_short-cy.glif</string>
     <key>Ustrait-cy</key>
     <string>U_strait-cy.glif</string>
-    <key>Xi</key>
-    <string>X_i.glif</string>
     <key>Yat-cy</key>
     <string>Y_at-cy.glif</string>
     <key>Yeru-cy</key>
@@ -182,8 +166,6 @@
     <string>pe-cy.glif</string>
     <key>phi</key>
     <string>phi.glif</string>
-    <key>pi</key>
-    <string>pi.glif</string>
     <key>psi</key>
     <string>psi.glif</string>
     <key>rho</key>

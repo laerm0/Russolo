@@ -19,14 +19,12 @@ do
   gftools fix-nonhinting $font $font
   gftools fix-dsig $font --autofix
   # ttx to remove MVAR
-    for ttx in $OUTPUT_DIR/*.ttx
-    do
-      ttx -x MVAR $font
-      ttx $ttx
-      rm $ttx
+    for ttf in *.ttf
+    do ttx -f -x MVAR $ttf
+      for ttx in *.ttx
+        do ttx -f $ttx
+      done
     done
-  mv 
-
 done
 
 # Cleanup gftools mess:
