@@ -22,8 +22,6 @@
     <string>C_hi.glif</string>
     <key>De-cy</key>
     <string>D_e-cy.glif</string>
-    <key>Delta</key>
-    <string>D_elta.glif</string>
     <key>Dze-cy</key>
     <string>D_ze-cy.glif</string>
     <key>Dzhe-cy</key>
@@ -106,8 +104,6 @@
     <string>K_appa.glif</string>
     <key>Kje-cy</key>
     <string>K_je-cy.glif</string>
-    <key>Lambda</key>
-    <string>L_ambda.glif</string>
     <key>Lje-cy</key>
     <string>L_je-cy.glif</string>
     <key>Mu</key>
@@ -124,8 +120,6 @@
     <string>O_.t.glif</string>
     <key>Obarred-cy</key>
     <string>O_barred-cy.glif</string>
-    <key>Omega</key>
-    <string>O_mega.glif</string>
     <key>Omicron</key>
     <string>O_micron.glif</string>
     <key>P</key>
@@ -136,10 +130,6 @@
     <string>P_e-cy.glif</string>
     <key>Phi</key>
     <string>P_hi.glif</string>
-    <key>Pi</key>
-    <string>P_i.glif</string>
-    <key>Psi</key>
-    <string>P_si.glif</string>
     <key>R</key>
     <string>R_.glif</string>
     <key>Rho</key>
@@ -152,8 +142,6 @@
     <string>S_hcha-cy.glif</string>
     <key>Shha-cy</key>
     <string>S_hha-cy.glif</string>
-    <key>Sigma</key>
-    <string>S_igma.glif</string>
     <key>Softsign-cy</key>
     <string>S_oftsign-cy.glif</string>
     <key>Tau</key>
@@ -168,8 +156,6 @@
     <string>U_-cy.glif</string>
     <key>Umacron-cy</key>
     <string>U_macron-cy.glif</string>
-    <key>Upsilon</key>
-    <string>U_psilon.glif</string>
     <key>Upsilondieresis</key>
     <string>U_psilondieresis.glif</string>
     <key>Ushort-cy</key>
@@ -182,8 +168,6 @@
     <string>V_e-cy.glif</string>
     <key>W</key>
     <string>W_.glif</string>
-    <key>Xi</key>
-    <string>X_i.glif</string>
     <key>Yat-cy</key>
     <string>Y_at-cy.glif</string>
     <key>Yeru-cy</key>
@@ -202,8 +186,6 @@
     <string>_cyrillic_bar.case.glif</string>
     <key>a-cy</key>
     <string>a-cy.glif</string>
-    <key>alpha</key>
-    <string>alpha.glif</string>
     <key>be-cy</key>
     <string>be-cy.glif</string>
     <key>brokenbar</key>
@@ -322,8 +304,6 @@
     <string>m.glif</string>
     <key>m.rvrn</key>
     <string>m.rvrn.glif</string>
-    <key>mu</key>
-    <string>mu.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>n.t</key>
@@ -338,8 +318,6 @@
     <string>palochka-cy.glif</string>
     <key>pe-cy</key>
     <string>pe-cy.glif</string>
-    <key>pi</key>
-    <string>pi.glif</string>
     <key>schwa-cy</key>
     <string>schwa-cy.glif</string>
     <key>section</key>

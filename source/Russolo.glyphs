@@ -1,8 +1,5 @@
 {
 .appVersion = "1289";
-DisplayStrings = (
-"/numero"
-);
 classes = (
 {
 automatic = 1;
@@ -299963,6 +299960,7 @@ rightKerningGroup = percent;
 unicode = 2030;
 },
 {
+color = 1;
 export = 0;
 glyphname = commercialMinusSign;
 layers = (
@@ -300078,16 +300076,19 @@ width = 1236;
 components = (
 {
 name = bullet;
+transform = "{1, 0, 0, 1, 6, 438}";
 },
 {
 name = fraction;
+transform = "{1, 0, 0, 1, 783, -9}";
 },
 {
 name = bullet;
+transform = "{1, 0, 0, 1, 614, -556}";
 }
 );
 layerId = "B71E0DD6-B640-4F5E-B48D-BF5E04BC2E71";
-width = 1200;
+width = 1333;
 },
 {
 components = (
@@ -351687,14 +351688,6 @@ name = winDescent;
 value = 600;
 },
 {
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "Text ExtraLight";
-},
-{
 name = weightClass;
 value = 275;
 }
@@ -351720,14 +351713,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "Text Light";
 }
 );
 interpolationWeight = 295;
@@ -351748,14 +351733,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "Text Regular";
 }
 );
 interpolationWeight = 379;
@@ -351775,14 +351752,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "Text Medium";
 }
 );
 interpolationWeight = 458;
@@ -351802,14 +351771,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "Text SemiBold";
 }
 );
 interpolationWeight = 542;
@@ -351830,14 +351791,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "Text Bold";
 }
 );
 interpolationWeight = 648;
@@ -351863,14 +351816,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "Text ExtraBold";
 }
 );
 interpolationWeight = 800;
