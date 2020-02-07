@@ -920,13 +920,13 @@
       <string>hbar</string>
       <string>hcircumflex</string>
       <string>m</string>
+      <string>m.rvrn</string>
       <string>n</string>
       <string>nacute</string>
       <string>ncaron</string>
       <string>ncommaaccent</string>
       <string>eng</string>
       <string>ntilde</string>
-      <string>m.rvrn</string>
       <string>n.t</string>
     </array>
     <key>public.kern1.nine</key>
@@ -1339,10 +1339,6 @@
     <array>
       <string>underscore</string>
     </array>
-    <key>public.kern1.uni0000</key>
-    <array>
-      <string>uni0000</string>
-    </array>
     <key>public.kern1.uni000D</key>
     <array>
       <string>CR</string>
@@ -1426,9 +1422,9 @@
     <key>public.kern1.zero</key>
     <array>
       <string>zero</string>
-      <string>zero.zero</string>
       <string>zero.lf</string>
       <string>zero.tf</string>
+      <string>zero.zero</string>
     </array>
     <key>public.kern1.zero.dnom</key>
     <array>
@@ -1959,9 +1955,9 @@
     <key>public.kern2.currency</key>
     <array>
       <string>currency</string>
-      <string>currency_vert_stroke</string>
       <string>currency_horz_stroke.case</string>
       <string>currency_horz_stroke_long.case</string>
+      <string>currency_vert_stroke</string>
       <string>currency_vert_stroke.case</string>
     </array>
     <key>public.kern2.currencylongbar</key>
@@ -2308,6 +2304,7 @@
     <key>public.kern2.n</key>
     <array>
       <string>m</string>
+      <string>m.rvrn</string>
       <string>n</string>
       <string>nacute</string>
       <string>ncaron</string>
@@ -2321,7 +2318,6 @@
       <string>rcommaaccent</string>
       <string>rdblgrave</string>
       <string>rinvertedbreve</string>
-      <string>m.rvrn</string>
       <string>n.t</string>
     </array>
     <key>public.kern2.nine</key>
@@ -2770,10 +2766,6 @@
     <array>
       <string>underscore</string>
     </array>
-    <key>public.kern2.uni0000</key>
-    <array>
-      <string>uni0000</string>
-    </array>
     <key>public.kern2.uni000D</key>
     <array>
       <string>CR</string>
@@ -2856,9 +2848,9 @@
     <key>public.kern2.zero</key>
     <array>
       <string>zero</string>
-      <string>zero.zero</string>
       <string>zero.lf</string>
       <string>zero.tf</string>
+      <string>zero.zero</string>
     </array>
     <key>public.kern2.zero.dnom</key>
     <array>

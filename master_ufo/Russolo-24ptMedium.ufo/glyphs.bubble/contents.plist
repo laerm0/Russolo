@@ -122,8 +122,6 @@
     <string>O_-cy.glif</string>
     <key>OE</key>
     <string>O_E_.glif</string>
-    <key>Obarred-cy</key>
-    <string>O_barred-cy.glif</string>
     <key>P</key>
     <string>P_.glif</string>
     <key>Palochka-cy</key>
@@ -164,10 +162,6 @@
     <string>U_macron-cy.glif</string>
     <key>Ushort-cy</key>
     <string>U_short-cy.glif</string>
-    <key>Ustrait-cy</key>
-    <string>U_strait-cy.glif</string>
-    <key>Ustraitstroke-cy</key>
-    <string>U_straitstroke-cy.glif</string>
     <key>V</key>
     <string>V_.glif</string>
     <key>Ve-cy</key>
@@ -596,8 +590,6 @@
     <string>o.glif</string>
     <key>o-cy</key>
     <string>o-cy.glif</string>
-    <key>obarred-cy</key>
-    <string>obarred-cy.glif</string>
     <key>ogonek</key>
     <string>ogonek.glif</string>
     <key>ogonekcomb</key>
@@ -782,10 +774,6 @@
     <string>upD_ownA_rrow.glif</string>
     <key>ushort-cy</key>
     <string>ushort-cy.glif</string>
-    <key>ustrait-cy</key>
-    <string>ustrait-cy.glif</string>
-    <key>ustraitstroke-cy</key>
-    <string>ustraitstroke-cy.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>ve-cy</key>

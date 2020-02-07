@@ -118,14 +118,7 @@
     <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
     <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.note</key>
-    <string>.orig glyphs are the 100% versions; the others are 90% of .orig
-
-!gotta figure out!
- why dong won’t scale properly
- xbold text vertical accent alignment
-
-
-UC
+    <string>UC
 thin -&gt; display stems 44%: offset 22H -8V
 medium -&gt; display stems 44%: offset 10H -8V
 
@@ -384,6 +377,7 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>Utilde</string>
       <string>V</string>
       <string>W</string>
+      <string>W.rvrn</string>
       <string>Wacute</string>
       <string>Wcircumflex</string>
       <string>Wdieresis</string>
@@ -402,7 +396,6 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
-      <string>W.rvrn</string>
       <string>H.t</string>
       <string>O.t</string>
       <string>a</string>
@@ -504,6 +497,7 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>lj</string>
       <string>lslash</string>
       <string>m</string>
+      <string>m.rvrn</string>
       <string>n</string>
       <string>nacute</string>
       <string>ncaron</string>
@@ -586,6 +580,7 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>utilde</string>
       <string>v</string>
       <string>w</string>
+      <string>w.rvrn</string>
       <string>wacute</string>
       <string>wcircumflex</string>
       <string>wdieresis</string>
@@ -604,8 +599,6 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>zacute</string>
       <string>zcaron</string>
       <string>zdotaccent</string>
-      <string>m.rvrn</string>
-      <string>w.rvrn</string>
       <string>n.t</string>
       <string>o.t</string>
       <string>f_f</string>
@@ -788,45 +781,45 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>iotadieresis</string>
       <string>upsilondieresis</string>
       <string>zero</string>
-      <string>one</string>
-      <string>two</string>
-      <string>three</string>
-      <string>four</string>
-      <string>five</string>
-      <string>six</string>
-      <string>seven</string>
-      <string>eight</string>
-      <string>nine</string>
-      <string>zero.zero</string>
       <string>zero.lf</string>
-      <string>one.lf</string>
-      <string>two.lf</string>
-      <string>three.lf</string>
-      <string>four.lf</string>
-      <string>five.lf</string>
-      <string>six.lf</string>
-      <string>seven.lf</string>
-      <string>eight.lf</string>
-      <string>nine.lf</string>
       <string>zero.osf</string>
-      <string>one.osf</string>
-      <string>two.osf</string>
-      <string>three.osf</string>
-      <string>four.osf</string>
-      <string>five.osf</string>
-      <string>six.osf</string>
-      <string>seven.osf</string>
-      <string>eight.osf</string>
-      <string>nine.osf</string>
       <string>zero.tf</string>
+      <string>zero.zero</string>
+      <string>one</string>
+      <string>one.lf</string>
+      <string>one.osf</string>
       <string>one.tf</string>
+      <string>two</string>
+      <string>two.lf</string>
+      <string>two.osf</string>
       <string>two.tf</string>
+      <string>three</string>
+      <string>three.lf</string>
+      <string>three.osf</string>
       <string>three.tf</string>
+      <string>four</string>
+      <string>four.lf</string>
+      <string>four.osf</string>
       <string>four.tf</string>
+      <string>five</string>
+      <string>five.lf</string>
+      <string>five.osf</string>
       <string>five.tf</string>
+      <string>six</string>
+      <string>six.lf</string>
+      <string>six.osf</string>
       <string>six.tf</string>
+      <string>seven</string>
+      <string>seven.lf</string>
+      <string>seven.osf</string>
       <string>seven.tf</string>
+      <string>eight</string>
+      <string>eight.lf</string>
+      <string>eight.osf</string>
       <string>eight.tf</string>
+      <string>nine</string>
+      <string>nine.lf</string>
+      <string>nine.osf</string>
       <string>nine.tf</string>
       <string>zero.dnom</string>
       <string>one.dnom</string>
@@ -871,14 +864,14 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>question</string>
       <string>questiondown</string>
       <string>periodcentered</string>
+      <string>periodcentered.loclCAT</string>
+      <string>periodcentered.loclCAT.case</string>
       <string>bullet</string>
       <string>asterisk</string>
       <string>numbersign</string>
       <string>slash</string>
-      <string>backslash</string>
-      <string>periodcentered.loclCAT.case</string>
       <string>slash.fig</string>
-      <string>periodcentered.loclCAT</string>
+      <string>backslash</string>
       <string>parenleft</string>
       <string>parenright</string>
       <string>braceleft</string>
@@ -907,8 +900,8 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>rightanglebracket-math</string>
       <string>space</string>
       <string>nbspace</string>
-      <string>CR</string>
       <string>.notdef</string>
+      <string>CR</string>
       <string>Euro</string>
       <string>cedi</string>
       <string>cent</string>
@@ -986,43 +979,70 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>daggerdbl</string>
       <string>numero</string>
       <string>apple</string>
-      <string>currency_vert_stroke</string>
       <string>currency_horz_stroke.case</string>
       <string>currency_horz_stroke_long.case</string>
       <string>currency_horz_stroke_xlong.case</string>
+      <string>currency_vert_stroke</string>
       <string>currency_vert_stroke.case</string>
       <string>apostrophemod</string>
       <string>doubleprimemod</string>
       <string>firsttonechinese</string>
       <string>primemod</string>
       <string>dieresiscomb</string>
+      <string>dieresiscomb.case</string>
       <string>dotaccentcomb</string>
+      <string>dotaccentcomb.case</string>
       <string>gravecomb</string>
+      <string>gravecomb.case</string>
       <string>acutecomb</string>
+      <string>acutecomb.case</string>
       <string>hungarumlautcomb</string>
+      <string>hungarumlautcomb.case</string>
       <string>caroncomb.alt</string>
+      <string>caroncomb.alt.case</string>
       <string>circumflexcomb</string>
+      <string>circumflexcomb.case</string>
       <string>caroncomb</string>
+      <string>caroncomb.case</string>
       <string>brevecomb</string>
+      <string>brevecomb.case</string>
       <string>ringcomb</string>
+      <string>ringcomb.case</string>
       <string>tildecomb</string>
+      <string>tildecomb.case</string>
       <string>macroncomb</string>
+      <string>macroncomb.case</string>
       <string>hookabovecomb</string>
+      <string>hookabovecomb.case</string>
       <string>dblgravecomb</string>
+      <string>dblgravecomb.case</string>
       <string>breveinvertedcomb</string>
+      <string>breveinvertedcomb.case</string>
       <string>commaturnedabovecomb</string>
+      <string>commaturnedabovecomb.case</string>
       <string>horncomb</string>
+      <string>horncomb.case</string>
       <string>dotbelowcomb</string>
+      <string>dotbelowcomb.case</string>
       <string>dieresisbelowcomb</string>
+      <string>dieresisbelowcomb.case</string>
       <string>commaaccentcomb</string>
+      <string>commaaccentcomb.case</string>
       <string>cedillacomb</string>
+      <string>cedillacomb.case</string>
       <string>ogonekcomb</string>
+      <string>ogonekcomb.case</string>
       <string>brevebelowcomb</string>
+      <string>brevebelowcomb.case</string>
       <string>macronbelowcomb</string>
+      <string>macronbelowcomb.case</string>
       <string>strokeshortcomb</string>
       <string>strokelongcomb</string>
+      <string>strokelongcomb.case</string>
       <string>slashshortcomb</string>
+      <string>slashshortcomb.case</string>
       <string>slashlongcomb</string>
+      <string>slashlongcomb.case</string>
       <string>dotaccent</string>
       <string>dieresis</string>
       <string>grave</string>
@@ -1030,53 +1050,25 @@ Text Thin is really 150 weight and ExtraLight is the original 200; Text XBold is
       <string>hungarumlaut</string>
       <string>circumflex</string>
       <string>caron</string>
+      <string>caron.alt</string>
       <string>breve</string>
       <string>ring</string>
       <string>tilde</string>
       <string>macron</string>
       <string>cedilla</string>
       <string>ogonek</string>
-      <string>caron.alt</string>
-      <string>dieresiscomb.case</string>
-      <string>dotaccentcomb.case</string>
-      <string>gravecomb.case</string>
-      <string>acutecomb.case</string>
-      <string>hungarumlautcomb.case</string>
-      <string>caroncomb.alt.case</string>
-      <string>circumflexcomb.case</string>
-      <string>caroncomb.case</string>
-      <string>brevecomb.case</string>
-      <string>ringcomb.case</string>
-      <string>tildecomb.case</string>
-      <string>macroncomb.case</string>
-      <string>hookabovecomb.case</string>
-      <string>dblgravecomb.case</string>
-      <string>breveinvertedcomb.case</string>
-      <string>commaturnedabovecomb.case</string>
-      <string>horncomb.case</string>
-      <string>dotbelowcomb.case</string>
-      <string>dieresisbelowcomb.case</string>
-      <string>commaaccentcomb.case</string>
-      <string>cedillacomb.case</string>
-      <string>ogonekcomb.case</string>
-      <string>brevebelowcomb.case</string>
-      <string>macronbelowcomb.case</string>
-      <string>strokelongcomb.case</string>
-      <string>slashshortcomb.case</string>
-      <string>slashlongcomb.case</string>
       <string>brevecomb-cy</string>
       <string>brevecomb_acutecomb</string>
       <string>brevecomb_gravecomb</string>
       <string>brevecomb_hookabovecomb</string>
       <string>brevecomb_tildecomb</string>
       <string>circumflexcomb_acutecomb</string>
+      <string>circumflexcomb_acutecomb.case</string>
       <string>circumflexcomb_gravecomb</string>
+      <string>circumflexcomb_gravecomb.case</string>
       <string>circumflexcomb_hookabovecomb</string>
       <string>circumflexcomb_tildecomb</string>
-      <string>circumflexcomb_acutecomb.case</string>
-      <string>circumflexcomb_gravecomb.case</string>
       <string>circumflexcomb_tildecomb.case</string>
-      <string>uni0000</string>
       <string>NULL</string>
       <string>uniE0FF</string>
       <string>uniEFFD</string>
