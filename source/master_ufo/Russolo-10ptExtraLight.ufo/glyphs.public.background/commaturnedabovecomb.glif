@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="commaturnedabovecomb" format="2">
-  <anchor x="167.792" y="989" name="_top"/>
-  <anchor x="167.792" y="1301.907" name="top"/>
-  <outline>
-    <component base="gravecomb" yScale="-1" yOffset="2286"/>
-  </outline>
-</glyph>

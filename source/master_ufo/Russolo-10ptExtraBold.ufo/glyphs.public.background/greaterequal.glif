@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="greaterequal" format="2">
-  <outline>
-    <component base="greater" yScale="0.8638" xOffset="11" yOffset="150"/>
-    <component base="minus" yScale="0.7835" xOffset="58" yOffset="-456"/>
-  </outline>
-</glyph>

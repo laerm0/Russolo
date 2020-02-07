@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Ograve" format="2">
-  <outline>
-    <component base="O" yScale="1.007"/>
-    <component base="gravecomb" xOffset="637" yOffset="451"/>
-  </outline>
-</glyph>

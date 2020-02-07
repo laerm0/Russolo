@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dcaron" format="2">
-  <outline>
-    <component base="d" yScale="1.007"/>
-    <component base="caroncomb.alt" xOffset="1062" yOffset="7"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Odotaccentmacron" format="2">
-  <outline>
-    <component base="O"/>
-    <component base="dotaccentcomb" xOffset="676" yOffset="441"/>
-    <component base="macroncomb" xOffset="491" yOffset="708"/>
-  </outline>
-</glyph>
