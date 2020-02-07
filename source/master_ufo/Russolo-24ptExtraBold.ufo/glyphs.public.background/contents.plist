@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>C</key>
+    <string>C_.glif</string>
+    <key>Germandbls</key>
+    <string>G_ermandbls.glif</string>
+    <key>P</key>
+    <string>P_.glif</string>
+    <key>brokenbar</key>
+    <string>brokenbar.glif</string>
+    <key>dagger</key>
+    <string>dagger.glif</string>
+    <key>daggerdbl</key>
+    <string>daggerdbl.glif</string>
+    <key>e</key>
+    <string>e.glif</string>
+    <key>eight</key>
+    <string>eight.glif</string>
+    <key>eight.dnom</key>
+    <string>eight.dnom.glif</string>
+    <key>f_j</key>
+    <string>f_j.glif</string>
+    <key>five</key>
+    <string>five.glif</string>
+    <key>five.dnom</key>
+    <string>five.dnom.glif</string>
+    <key>k</key>
+    <string>k.glif</string>
+    <key>nine</key>
+    <string>nine.glif</string>
+    <key>trademark</key>
+    <string>trademark.glif</string>
+    <key>zero</key>
+    <string>zero.glif</string>
+    <key>zero.dnom</key>
+    <string>zero.dnom.glif</string>
+  </dict>
+</plist>

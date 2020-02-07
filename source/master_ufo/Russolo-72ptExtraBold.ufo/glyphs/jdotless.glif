@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="570"/>
+  <unicode hex="0237"/>
+  <anchor x="280" y="-526" name="bottom"/>
+  <anchor x="280" y="929" name="top"/>
+  <outline>
+    <contour>
+      <point x="67" y="-555" type="curve" smooth="yes"/>
+      <point x="268" y="-555"/>
+      <point x="431" y="-494"/>
+      <point x="431" y="-68" type="curve" smooth="yes"/>
+      <point x="431" y="929" type="line"/>
+      <point x="139" y="929" type="line"/>
+      <point x="139" y="32" type="line" smooth="yes"/>
+      <point x="139" y="-211"/>
+      <point x="180" y="-504"/>
+      <point x="69" y="-526" type="curve" smooth="yes"/>
+      <point x="-3" y="-540"/>
+      <point x="-83" y="-432"/>
+      <point x="-83" y="-345" type="curve" smooth="yes"/>
+      <point x="-83" y="-326"/>
+      <point x="-79" y="-285"/>
+      <point x="-65" y="-256" type="curve"/>
+      <point x="-218" y="-290" type="line"/>
+      <point x="-223" y="-316"/>
+      <point x="-224" y="-350"/>
+      <point x="-224" y="-362" type="curve" smooth="yes"/>
+      <point x="-224" y="-497"/>
+      <point x="-129" y="-555"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

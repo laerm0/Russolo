@@ -45,7 +45,7 @@ value = (
 },
 {
 name = "Use Typo Metrics";
-value = 1;
+value = 0;
 },
 {
 name = "Disable Last Change";
@@ -481,6 +481,18 @@ value = 2649;
 {
 name = winDescent;
 value = 600;
+},
+{
+name = hheaAscender;
+value = 1529;
+},
+{
+name = hheaDescender;
+value = -471;
+},
+{
+name = hheaLineGap;
+value = 500;
 }
 );
 descender = -526;
@@ -554,6 +566,18 @@ value = 2649;
 {
 name = winDescent;
 value = 600;
+},
+{
+name = hheaAscender;
+value = 1529;
+},
+{
+name = hheaDescender;
+value = -471;
+},
+{
+name = hheaLineGap;
+value = 500;
 }
 );
 descender = -526;
@@ -618,6 +642,18 @@ value = 2649;
 {
 name = winDescent;
 value = 600;
+},
+{
+name = hheaAscender;
+value = 1529;
+},
+{
+name = hheaDescender;
+value = -471;
+},
+{
+name = hheaLineGap;
+value = 500;
 }
 );
 descender = -526;
@@ -692,6 +728,18 @@ value = 2649;
 {
 name = winDescent;
 value = 600;
+},
+{
+name = hheaAscender;
+value = 1529;
+},
+{
+name = hheaDescender;
+value = -471;
+},
+{
+name = hheaLineGap;
+value = 500;
 }
 );
 descender = -526;
@@ -763,6 +811,18 @@ value = 2649;
 {
 name = winDescent;
 value = 600;
+},
+{
+name = hheaAscender;
+value = 1529;
+},
+{
+name = hheaDescender;
+value = -471;
+},
+{
+name = hheaLineGap;
+value = 500;
 }
 );
 descender = -526;
@@ -832,6 +892,18 @@ value = 2649;
 {
 name = winDescent;
 value = 600;
+},
+{
+name = hheaAscender;
+value = 1529;
+},
+{
+name = hheaDescender;
+value = -471;
+},
+{
+name = hheaLineGap;
+value = 500;
 }
 );
 descender = -526;
@@ -903,6 +975,18 @@ value = 2649;
 {
 name = winDescent;
 value = 600;
+},
+{
+name = hheaAscender;
+value = 1529;
+},
+{
+name = hheaDescender;
+value = -471;
+},
+{
+name = hheaLineGap;
+value = 500;
 }
 );
 descender = -526;
@@ -973,9 +1057,21 @@ value = 2649;
 {
 name = winDescent;
 value = 600;
+},
+{
+name = hheaAscender;
+value = 1529;
+},
+{
+name = hheaDescender;
+value = -471;
+},
+{
+name = hheaLineGap;
+value = 500;
 }
 );
-descender = -563;
+descender = -526;
 horizontalStems = (
 18,
 22,
@@ -998,7 +1094,7 @@ verticalStems = (
 );
 weightValue = 500;
 widthValue = 72;
-xHeight = 921;
+xHeight = 910;
 },
 {
 alignmentZones = (
@@ -1043,6 +1139,18 @@ value = 2649;
 {
 name = winDescent;
 value = 600;
+},
+{
+name = hheaAscender;
+value = 1529;
+},
+{
+name = hheaDescender;
+value = -471;
+},
+{
+name = hheaLineGap;
+value = 500;
 }
 );
 descender = -526;
@@ -80057,7 +80165,7 @@ width = 1006;
 components = (
 {
 name = e;
-transform = "{-1, 0, 0, -1, 1091, 921}";
+transform = "{-1, 0, 0, -1, 1091, 910}";
 }
 );
 layerId = "B4536172-55B8-4884-A498-BDE07D5884DA";
@@ -209145,7 +209253,7 @@ transform = "{-1, 0, 0, -1, 1187, 1006}";
 components = (
 {
 name = e;
-transform = "{-1, 0, 0, -1, 1091, 921}";
+transform = "{-1, 0, 0, -1, 1091, 910}";
 }
 );
 layerId = "B4536172-55B8-4884-A498-BDE07D5884DA";
@@ -351686,10 +351794,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = weightClass;
-value = 275;
 }
 );
 interpolationWeight = 200;
@@ -351765,6 +351869,10 @@ weightClass = Medium;
 {
 customParameters = (
 {
+name = WWSSubfamilyName;
+value = Bold;
+},
+{
 name = winAscent;
 value = 2228;
 },
@@ -351779,11 +351887,17 @@ instanceInterpolations = {
 "338DAB22-2F62-42B0-AF6A-AC80FC784DAE" = 0.24561;
 "50B3BD20-6B7E-4A37-88B3-070541B8FD4C" = 0.75439;
 };
+isBold = 1;
+linkStyle = "10pt Light";
 name = "10pt SemiBold";
 weightClass = SemiBold;
 },
 {
 customParameters = (
+{
+name = WWSSubfamilyName;
+value = Bold;
+},
 {
 name = winAscent;
 value = 2228;
@@ -351840,18 +351954,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = ExtraLight;
-},
-{
-name = weightClass;
-value = 275;
 }
 );
 interpolationWeight = 200;
@@ -351872,14 +351974,6 @@ value = 0;
 {
 name = winAscent;
 value = 2228;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = Light;
 },
 {
 name = winDescent;
@@ -351910,14 +352004,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = Regular;
 }
 );
 interpolationWeight = 379;
@@ -351939,14 +352025,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = Medium;
 }
 );
 interpolationWeight = 458;
@@ -351970,12 +352048,8 @@ name = winDescent;
 value = 600;
 },
 {
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = SemiBold;
+name = WWSSubfamilyName;
+value = Bold;
 }
 );
 interpolationWeight = 542;
@@ -351986,6 +352060,8 @@ instanceInterpolations = {
 "50B3BD20-6B7E-4A37-88B3-070541B8FD4C" = 0.22932;
 "EA94BB3F-1054-4F03-AAB6-69C3B81B3CC3" = 0.59858;
 };
+isBold = 1;
+linkStyle = "24pt Light";
 name = "24pt SemiBold";
 weightClass = SemiBold;
 },
@@ -352000,11 +352076,7 @@ name = winDescent;
 value = 600;
 },
 {
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
+name = WWSSubfamilyName;
 value = Bold;
 }
 );
@@ -352029,14 +352101,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = ExtraBold;
 }
 );
 interpolationWeight = 800;
@@ -352061,18 +352125,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "ExtraLight Display";
-},
-{
-name = weightClass;
-value = 275;
 }
 );
 interpolationWeight = 200;
@@ -352096,14 +352148,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "ExtraLight Display";
 }
 );
 interpolationWeight = 295;
@@ -352128,14 +352172,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "Regular Display";
 }
 );
 interpolationWeight = 379;
@@ -352159,14 +352195,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "Medium Display";
 }
 );
 interpolationWeight = 458;
@@ -352193,12 +352221,8 @@ name = winDescent;
 value = 600;
 },
 {
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "SemiBold Display";
+name = WWSSubfamilyName;
+value = Bold;
 }
 );
 interpolationWeight = 542;
@@ -352207,6 +352231,8 @@ instanceInterpolations = {
 "5EAC5215-9D4A-4BA0-8B26-A551FA1A966A" = 0.14;
 "B4536172-55B8-4884-A498-BDE07D5884DA" = 0.86;
 };
+isBold = 1;
+linkStyle = "72pt Light";
 name = "72pt SemiBold";
 weightClass = SemiBold;
 },
@@ -352225,12 +352251,8 @@ name = winDescent;
 value = 600;
 },
 {
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "Bold Display";
+name = WWSSubfamilyName;
+value = Bold;
 }
 );
 interpolationWeight = 648;
@@ -352256,26 +352278,6 @@ value = 2228;
 {
 name = winDescent;
 value = 600;
-},
-{
-name = typoAscender;
-value = 1529;
-},
-{
-name = typoDescender;
-value = -471;
-},
-{
-name = typoLineGap;
-value = 500;
-},
-{
-name = preferredFamilyName;
-value = Russolo;
-},
-{
-name = preferredSubfamilyName;
-value = "ExtraBold Display";
 }
 );
 interpolationWeight = 800;
