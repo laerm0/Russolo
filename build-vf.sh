@@ -3,17 +3,17 @@ SOURCE_DIR=source
 
 rm $OUTPUT_DIR -rf
 
-for src in $SOURCE_DIR/*.glyphs
+for srcg in $SOURCE_DIR/*.glyphs
 do
-  fontmake -g $src -o ufo -i --subset --output-dir master_ufo
+  fontmake -g $srcg -o ufo -i --subset --output-dir master_ufo
 done
 
-for src in $SOURCE_DIR/*.designspace
+for srcd in $SOURCE_DIR/*.designspace
 do
-  fontmake -m $src -o variable --output-dir $OUTPUT_DIR/
+  fontmake -m $srcd -o variable --output-dir fonts/variable
 done
 
-for font in $OUTPUT_DIR/*.ttf
+for font in fonts/variable/*.ttf
 do
   mv $font Russolo\[opsz,wght\].ttf
   gftools fix-nonhinting $font $font
@@ -22,7 +22,7 @@ do
     for ttf in *.ttf
     do ttx -f -x MVAR $ttf
       for ttx in *.ttx
-        do ttx -f $ttx
+        do ttx -f $ttx && rm $ttx
       done
     done
 done
@@ -37,6 +37,6 @@ export OPTIONS="--no-progress"
 export OPTIONS="$OPTIONS --exclude-checkid /check/ftxvalidator" # We lack this on Travis.
 # export OPTIONS="$OPTIONS --exclude-checkid /check/metadata" # Comment this out after creating a METADATA.pb file.
 # export OPTIONS="$OPTIONS --exclude-checkid /check/description" # Comment this out after creating a DESCRIPTION.en_us.html file.
-export OPTIONS="$OPTIONS --exclude-checkid /check/varfont" # Comment this out when making a variable font.
+# export OPTIONS="$OPTIONS --exclude-checkid /check/varfont" Comment this out when making a variable font.
 export OPTIONS="$OPTIONS --loglevel INFO --ghmarkdown Fontbakery-check-results.md"
 fontbakery check-googlefonts $OPTIONS $OUTPUT_DIR/*.ttf
