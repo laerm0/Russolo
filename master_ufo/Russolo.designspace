@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="Weight" minimum="275" maximum="800" default="275">
-      <map input="275" output="200"/>
+    <axis tag="wght" name="Weight" minimum="200" maximum="800" default="200">
+      <map input="200" output="200"/>
       <map input="300" output="295"/>
       <map input="400" output="379"/>
       <map input="500" output="458"/>
@@ -88,14 +88,6 @@
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
           </array>
         </dict>
       </lib>
@@ -115,14 +107,6 @@
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
           </array>
         </dict>
       </lib>
@@ -134,21 +118,6 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
     <instance name="Russolo 10pt Medium" familyname="Russolo" stylename="10pt Medium" filename="../instance_ufo/Russolo-10ptMedium.ufo" stylemapfamilyname="Russolo 10pt Medium" stylemapstylename="regular">
       <location>
@@ -157,23 +126,8 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Russolo 10pt SemiBold" familyname="Russolo" stylename="10pt SemiBold" filename="../instance_ufo/Russolo-10ptSemiBold.ufo" stylemapfamilyname="Russolo 10pt SemiBold" stylemapstylename="regular">
+    <instance name="Russolo 10pt SemiBold" familyname="Russolo" stylename="10pt SemiBold" filename="../instance_ufo/Russolo-10ptSemiBold.ufo" stylemapfamilyname="Russolo 10pt Light" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="542"/>
         <dimension name="Optical size" xvalue="10"/>
@@ -185,12 +139,8 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
+              <string>WWSSubfamilyName</string>
+              <string>Bold</string>
             </array>
           </array>
         </dict>
@@ -208,12 +158,8 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
+              <string>WWSSubfamilyName</string>
+              <string>Bold</string>
             </array>
           </array>
         </dict>
@@ -234,14 +180,6 @@
               <string>InterpolationWeightY</string>
               <string>760</string>
             </array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
           </array>
         </dict>
       </lib>
@@ -260,22 +198,6 @@
             <array>
               <string>Grid Spacing</string>
               <integer>0</integer>
-            </array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>ExtraLight</string>
             </array>
           </array>
         </dict>
@@ -296,22 +218,6 @@
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>Light</string>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
           </array>
         </dict>
       </lib>
@@ -331,22 +237,6 @@
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>Regular</string>
-            </array>
           </array>
         </dict>
       </lib>
@@ -358,31 +248,8 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>Medium</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Russolo 24pt SemiBold" familyname="Russolo" stylename="24pt SemiBold" filename="../instance_ufo/Russolo-24ptSemiBold.ufo" stylemapfamilyname="Russolo 24pt SemiBold" stylemapstylename="regular">
+    <instance name="Russolo 24pt SemiBold" familyname="Russolo" stylename="24pt SemiBold" filename="../instance_ufo/Russolo-24ptSemiBold.ufo" stylemapfamilyname="Russolo 24pt Light" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="542"/>
         <dimension name="Optical size" xvalue="24"/>
@@ -394,20 +261,8 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>SemiBold</string>
+              <string>WWSSubfamilyName</string>
+              <string>Bold</string>
             </array>
           </array>
         </dict>
@@ -425,19 +280,7 @@
           <key>com.schriftgestaltung.customParameters</key>
           <array>
             <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
+              <string>WWSSubfamilyName</string>
               <string>Bold</string>
             </array>
           </array>
@@ -451,29 +294,6 @@
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>ExtraBold</string>
-            </array>
-          </array>
-        </dict>
-      </lib>
     </instance>
     <instance name="Russolo 72pt ExtraLight" familyname="Russolo" stylename="72pt ExtraLight" filename="../instance_ufo/Russolo-72ptExtraLight.ufo" stylemapfamilyname="Russolo 72pt ExtraLight" stylemapstylename="regular">
       <location>
@@ -489,22 +309,6 @@
             <array>
               <string>Grid Spacing</string>
               <integer>0</integer>
-            </array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>ExtraLight Display</string>
             </array>
           </array>
         </dict>
@@ -525,22 +329,6 @@
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>ExtraLight Display</string>
-            </array>
           </array>
         </dict>
       </lib>
@@ -559,22 +347,6 @@
             <array>
               <string>Grid Spacing</string>
               <integer>0</integer>
-            </array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>Regular Display</string>
             </array>
           </array>
         </dict>
@@ -595,27 +367,11 @@
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>Medium Display</string>
-            </array>
           </array>
         </dict>
       </lib>
     </instance>
-    <instance name="Russolo 72pt SemiBold" familyname="Russolo" stylename="72pt SemiBold" filename="../instance_ufo/Russolo-72ptSemiBold.ufo" stylemapfamilyname="Russolo 72pt SemiBold" stylemapstylename="regular">
+    <instance name="Russolo 72pt SemiBold" familyname="Russolo" stylename="72pt SemiBold" filename="../instance_ufo/Russolo-72ptSemiBold.ufo" stylemapfamilyname="Russolo 72pt Light" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="542"/>
         <dimension name="Optical size" xvalue="72"/>
@@ -631,20 +387,8 @@
               <integer>0</integer>
             </array>
             <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>SemiBold Display</string>
+              <string>WWSSubfamilyName</string>
+              <string>Bold</string>
             </array>
           </array>
         </dict>
@@ -666,20 +410,8 @@
               <integer>0</integer>
             </array>
             <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>Bold Display</string>
+              <string>WWSSubfamilyName</string>
+              <string>Bold</string>
             </array>
           </array>
         </dict>
@@ -700,39 +432,18 @@
               <string>Grid Spacing</string>
               <integer>0</integer>
             </array>
-            <array>
-              <string>winAscent</string>
-              <integer>2228</integer>
-            </array>
-            <array>
-              <string>winDescent</string>
-              <integer>600</integer>
-            </array>
-            <array>
-              <string>typoAscender</string>
-              <integer>1529</integer>
-            </array>
-            <array>
-              <string>typoDescender</string>
-              <integer>-471</integer>
-            </array>
-            <array>
-              <string>typoLineGap</string>
-              <integer>500</integer>
-            </array>
-            <array>
-              <string>preferredFamilyName</string>
-              <string>Russolo</string>
-            </array>
-            <array>
-              <string>preferredSubfamilyName</string>
-              <string>ExtraBold Display</string>
-            </array>
           </array>
         </dict>
       </lib>
     </instance>
   </instances>
+  <rules>
+      <rule name="dubya">
+          <condition minimum="600" name="Weight" />
+          <sub name="W" with="W.rvrn"/>
+          <sub name="w" with="w.rvrn"/>
+      </rule>
+  </rules>
   <lib>
     <dict>
       <key>GSDimensionPlugin.Dimensions</key>
