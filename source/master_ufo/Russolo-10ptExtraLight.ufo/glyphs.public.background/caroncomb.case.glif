@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="caroncomb.case" format="2">
-  <anchor x="249" y="1430" name="_top"/>
-  <anchor x="249" y="1359" name="top"/>
-  <outline>
-    <component base="caroncomb" yOffset="25"/>
-  </outline>
-</glyph>

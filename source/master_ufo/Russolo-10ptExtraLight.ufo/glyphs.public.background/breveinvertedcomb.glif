@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="breveinvertedcomb" format="2">
-  <anchor x="286" y="989" name="_top"/>
-  <anchor x="286" y="1279" name="top"/>
-  <outline>
-    <component base="brevecomb" yScale="-1" yOffset="2327"/>
-  </outline>
-</glyph>

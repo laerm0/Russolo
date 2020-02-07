@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Otildemacron" format="2">
-  <outline>
-    <component base="O"/>
-    <component base="tildecomb" xOffset="456" yOffset="510"/>
-    <component base="macroncomb" xOffset="374" yOffset="1001"/>
-  </outline>
-</glyph>

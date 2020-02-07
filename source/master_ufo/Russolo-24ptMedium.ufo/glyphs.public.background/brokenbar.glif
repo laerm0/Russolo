@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="brokenbar" format="2">
-  <outline>
-    <component base="bar" xOffset="33"/>
-    <component base="bar" xOffset="33"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="commaaccentcomb.case" format="2">
-  <anchor x="140.208" y="0" name="_bottom"/>
-  <anchor x="140.208" y="-315.907" name="bottom"/>
-  <outline>
-    <component base="commaaccentcomb" yOffset="25"/>
-  </outline>
-</glyph>

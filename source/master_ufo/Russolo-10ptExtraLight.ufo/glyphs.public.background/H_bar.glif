@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Hbar" format="2">
-  <anchor x="764" y="21" name="bottom"/>
-  <anchor x="764" y="1409" name="top"/>
-  <outline>
-    <component base="H"/>
-    <component base="strokelongcomb.case" xOffset="-2" yOffset="-426"/>
-  </outline>
-</glyph>

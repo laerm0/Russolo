@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="__periodcentered" format="2">
-  <anchor x="56" y="443" name="_dot"/>
-  <outline>
-    <component base="period" xOffset="-132" yOffset="400"/>
-  </outline>
-</glyph>

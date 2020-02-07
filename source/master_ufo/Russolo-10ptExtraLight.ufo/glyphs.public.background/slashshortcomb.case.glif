@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="slashshortcomb.case" format="2">
-  <anchor x="287" y="735.5" name="_center"/>
-  <outline>
-    <component base="slashshortcomb" yOffset="25"/>
-  </outline>
-</glyph>

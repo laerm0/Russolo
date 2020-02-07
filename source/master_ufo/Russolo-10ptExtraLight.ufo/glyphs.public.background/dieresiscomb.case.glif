@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dieresiscomb.case" format="2">
-  <anchor x="248" y="1430" name="_top"/>
-  <anchor x="248" y="1283" name="top"/>
-  <outline>
-    <component base="dieresiscomb" yOffset="25"/>
-  </outline>
-</glyph>

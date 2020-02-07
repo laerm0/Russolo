@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ringcomb.case" format="2">
-  <anchor x="245" y="1430" name="_top"/>
-  <anchor x="245" y="1417" name="top"/>
-  <outline>
-    <component base="ringcomb" yOffset="25"/>
-  </outline>
-</glyph>
