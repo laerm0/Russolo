@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ushort-cy" format="2">
-  <outline>
-    <component base="y"/>
-    <component base="breve-cy.lc" xOffset="133" yOffset="5"/>
-  </outline>
-</glyph>

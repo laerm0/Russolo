@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="zero.tf" format="2">
-  <advance width="1207.0"/>
-  <anchor x="605.5" y="714.7" name="center"/>
-  <outline>
-    <component base="zero" xOffset="-26.43999999999999" yOffset="3.552713678800501e-15"/>
-  </outline>
-</glyph>

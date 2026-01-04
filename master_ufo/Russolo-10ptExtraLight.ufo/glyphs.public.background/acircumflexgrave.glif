@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="acircumflexgrave" format="2">
-  <outline>
-    <component base="a"/>
-    <component base="circumflexcomb" xOffset="323"/>
-    <component base="gravecomb" xOffset="400" yOffset="367"/>
-  </outline>
-</glyph>

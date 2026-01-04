@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="numero" format="2">
-  <outline>
-    <component base="N" xOffset="30"/>
-    <component base="o" xOffset="1605"/>
-  </outline>
-</glyph>

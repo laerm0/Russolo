@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="_tstrokeshortcomb" format="2">
-  <anchor x="301" y="66" name="_bottom"/>
-  <anchor x="334" y="572" name="_center"/>
-  <outline>
-    <component base="strokeshortcomb" xOffset="-117" yOffset="-119"/>
-  </outline>
-</glyph>

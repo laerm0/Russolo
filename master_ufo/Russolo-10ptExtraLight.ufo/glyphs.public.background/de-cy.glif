@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="de-cy" format="2">
-  <outline>
-    <component base="danglycyrillicserif" xOffset="-144"/>
-    <component base="danglycyrillicserif" xScale="-1" xOffset="1070"/>
-  </outline>
-</glyph>

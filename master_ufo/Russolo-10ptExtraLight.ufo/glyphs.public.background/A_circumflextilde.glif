@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Acircumflextilde" format="2">
-  <outline>
-    <component base="A"/>
-    <component base="circumflexcomb" xOffset="519" yOffset="441"/>
-    <component base="tildecomb" xOffset="394" yOffset="808"/>
-  </outline>
-</glyph>

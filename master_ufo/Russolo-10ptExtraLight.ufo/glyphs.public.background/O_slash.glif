@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Oslash" format="2">
-  <anchor x="896" y="21" name="bottom"/>
-  <anchor x="896" y="1409" name="top"/>
-  <outline>
-    <component base="O"/>
-    <component base="slashlongcomb.case" xOffset="39" yOffset="-6"/>
-  </outline>
-</glyph>

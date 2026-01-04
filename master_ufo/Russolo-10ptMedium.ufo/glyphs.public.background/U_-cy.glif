@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="U-cy" format="2">
-  <guideline x="390" y="444" angle="69.5944"/>
-  <guideline x="375" y="446" angle="69.5944"/>
-  <outline>
-    <component base="v"/>
-  </outline>
-</glyph>

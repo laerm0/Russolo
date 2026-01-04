@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="e-cy" format="2">
-  <advance width="1100.698"/>
-  <unicode hex="0454"/>
-  <anchor x="551.2513684210526" y="760.9552631578947" name="top"/>
-  <outline>
-    <component base="ereversed-cy" xScale="-1.0" xOffset="1100.698"/>
-  </outline>
-</glyph>

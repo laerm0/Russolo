@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="abrevegrave" format="2">
-  <outline>
-    <component base="a"/>
-    <component base="brevecomb" xOffset="282"/>
-    <component base="gravecomb" xOffset="400" yOffset="315"/>
-  </outline>
-</glyph>

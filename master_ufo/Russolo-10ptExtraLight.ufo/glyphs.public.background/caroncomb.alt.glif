@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="caroncomb.alt" format="2">
-  <anchor x="60.71" y="989" name="_topright"/>
-  <outline>
-    <component base="acutecomb" xScale="1.05" yxScale="-0.3302" yScale="1.05" xOffset="312" yOffset="169"/>
-  </outline>
-</glyph>

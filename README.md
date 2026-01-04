@@ -16,3 +16,10 @@ Development will include a character set matching Google Latin Plus, Cyrillic, a
 This project is developed with the aid of [BrowserStack](http://www.browserstack.com).
 
 <img src="images/Browserstack-logo@2x.png" height="50">
+
+
+# Build
+
+The latest build structure is based on `gftools builder` using the file `source/config.yaml` for configuration.
+
+Install `gftools`: `pip install -U gftools`, then build with `gftools builder source/config.yaml`.

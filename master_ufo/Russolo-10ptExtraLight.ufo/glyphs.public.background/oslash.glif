@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="oslash" format="2">
-  <anchor x="497" y="966" name="top"/>
-  <outline>
-    <component base="o"/>
-    <component base="slashlongcomb" xOffset="168" yOffset="18"/>
-  </outline>
-</glyph>

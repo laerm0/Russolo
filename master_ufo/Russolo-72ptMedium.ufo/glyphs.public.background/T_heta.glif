@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Theta" format="2">
-  <outline>
-    <component base="O.orig" yOffset="62"/>
-    <component base="macroncomb" xOffset="426" yOffset="511"/>
-  </outline>
-</glyph>

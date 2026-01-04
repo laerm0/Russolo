@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dblgravecomb.case" format="2">
-  <anchor x="314.792" y="1430" name="_top"/>
-  <anchor x="314.792" y="1366" name="top"/>
-  <outline>
-    <component base="dblgravecomb" yOffset="25"/>
-  </outline>
-</glyph>
